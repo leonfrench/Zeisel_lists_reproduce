@@ -1,3 +1,4 @@
+library(xlsx)
 library(homologene)
 library(readxl)
 library(reshape2)
@@ -29,13 +30,26 @@ mouse_summary
 human_mapping <- mouse2human(mouse_supplement %>% pull(gene_symbol)) %>% tibble()
 human_converted <- inner_join(mouse_supplement, human_mapping %>% rename(gene_symbol = mouseGene))
 human_converted %<>% select(gene_symbol = humanGene, cell_type) %>% distinct()
+
+#old_interneuron <- read_csv("/Users/leon/Downloads/UpdatedCellTypeLists/old Zeisel lists/Zeisel.interneuron.txt", col_names = F)
+#old_interneuron %<>% rename(gene_symbol = X1) %>% mutate(cell_type = "Old interneuron list")
+#human_converted <- bind_rows(human_converted, old_interneuron)
+
 human_converted_summary <- human_converted %>% group_by(cell_type) %>% count() %>% rename(human_n = n)
 human_converted_summary
 
 #filter for Allen 6 - stage 1, this file is from figshare
 allen_6 <- read_tsv(here("data","Allen 6 correlation Frontiers","AllenHBA_DK_ExpressionMatrix.tsv"))
-allen_6 %<>% filter(`Average donor correlation to median` > 0.446)
 allen_6 %<>% rename(gene_symbol = ...1)
+
+
+
+#take a look at the interneurons
+intersect(allen_6$gene_symbol, human_converted %>% filter(cell_type == "Interneuron") %>% pull(gene_symbol)) %>% length()
+human_converted %>% filter(cell_type == "Interneuron") %>% pull(gene_symbol) %>% length()
+allen_6 %<>% filter(`Average donor correlation to median` > 0.446)
+
+
 human_stage1 <- human_converted %>% filter(gene_symbol %in% allen_6$gene_symbol)
 human_stage1_summary <- human_stage1 %>% group_by(cell_type) %>% count() %>% rename(stage1_n = n)
 human_stage1_summary
@@ -67,3 +81,7 @@ human_converted %>% write_csv(here("results", "human_converted_lists.csv"))
 human_stage1 %>% write_csv(here("results", "Stage1_lists.csv"))
 human_stage2 %>% write_csv(here("results", "Stage2_lists.csv"))
 
+write.xlsx(mouse_supplement, here("results", "original_mouse_lists.xlsx"), sheetName = "Sheet1", col.names = TRUE, row.names = T, append = FALSE)
+write.xlsx(human_converted, here("results", "human_converted_lists.xlsx"), sheetName = "Sheet1", col.names = TRUE, row.names = T, append = FALSE)
+write.xlsx(human_stage1, here("results", "Stage1_lists.xlsx"), sheetName = "Sheet1", col.names = TRUE, row.names = T, append = F)
+write.xlsx(human_stage2, here("results", "Stage2_lists.xlsx"), sheetName = "Sheet1", col.names = TRUE, row.names = T, append = F)
