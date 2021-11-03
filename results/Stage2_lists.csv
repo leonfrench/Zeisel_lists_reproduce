@@ -1,0 +1,605 @@
+gene_symbol,cell_type
+AK7,Ependymal
+BACE2,Ependymal
+BPHL,Ependymal
+CA12,Ependymal
+CASC1,Ependymal
+CCDC146,Ependymal
+CCDC148,Ependymal
+CCDC40,Ependymal
+CCNO,Ependymal
+CETN2,Ependymal
+CLDN1,Ependymal
+CMTM4,Ependymal
+CNN3,Ependymal
+COL5A2,Ependymal
+COL9A1,Ependymal
+COX7A1,Ependymal
+CRYGN,Ependymal
+DMKN,Ependymal
+DNAH5,Ependymal
+DNAH6,Ependymal
+DNAJA4,Ependymal
+DUSP18,Ependymal
+EFCAB1,Ependymal
+EMB,Ependymal
+ENKUR,Ependymal
+FAM126A,Ependymal
+FAM78A,Ependymal
+FBLN7,Ependymal
+FIBIN,Ependymal
+GPR98,Ependymal
+HMGN1,Ependymal
+HRASLS,Ependymal
+HSPB6,Ependymal
+HTR1B,Ependymal
+INTU,Ependymal
+IQCA1,Ependymal
+IQCK,Ependymal
+KIF27,Ependymal
+KL,Ependymal
+KREMEN1,Ependymal
+LAMA3,Ependymal
+LCA5,Ependymal
+LGALS3,Ependymal
+LRRC48,Ependymal
+MYB,Ependymal
+MYO5C,Ependymal
+MYO7A,Ependymal
+N4BP2,Ependymal
+NIPAL2,Ependymal
+NPHP1,Ependymal
+NR1D1,Ependymal
+NTHL1,Ependymal
+PAWR,Ependymal
+PCOLCE2,Ependymal
+PLAGL1,Ependymal
+POSTN,Ependymal
+PYGL,Ependymal
+RARB,Ependymal
+RDH10,Ependymal
+RFX3,Ependymal
+RPGR,Ependymal
+RSPH9,Ependymal
+SEC24D,Ependymal
+SLC29A4,Ependymal
+SLC2A12,Ependymal
+SLC39A13,Ependymal
+SMOC1,Ependymal
+SPAG6,Ependymal
+SPEF2,Ependymal
+STK36,Ependymal
+SULF1,Ependymal
+SYT10,Ependymal
+TCTEX1D1,Ependymal
+TMEM107,Ependymal
+TMEM108,Ependymal
+TRIM68,Ependymal
+TRPM3,Ependymal
+TSPAN6,Ependymal
+TTC18,Ependymal
+TTR,Ependymal
+UPP1,Ependymal
+VWA3A,Ependymal
+ZNF786,Ependymal
+ZMYND10,Ependymal
+C9orf91,Oligodendrocyte
+ABTB2,Oligodendrocyte
+ADO,Oligodendrocyte
+ADSSL1,Oligodendrocyte
+ANO10,Oligodendrocyte
+ATP1B3,Oligodendrocyte
+CDR2L,Oligodendrocyte
+CEP97,Oligodendrocyte
+CFL2,Oligodendrocyte
+CLGN,Oligodendrocyte
+COMMD9,Oligodendrocyte
+CYB5A,Oligodendrocyte
+DCPS,Oligodendrocyte
+EFNB3,Oligodendrocyte
+EML1,Oligodendrocyte
+EPB41L3,Oligodendrocyte
+FAH,Oligodendrocyte
+FAM83D,Oligodendrocyte
+FBXO32,Oligodendrocyte
+FHDC1,Oligodendrocyte
+GHDC,Oligodendrocyte
+GJB1,Oligodendrocyte
+GPD1,Oligodendrocyte
+GPR155,Oligodendrocyte
+GRB14,Oligodendrocyte
+HCN2,Oligodendrocyte
+HINT3,Oligodendrocyte
+HMGCS1,Oligodendrocyte
+HS3ST1,Oligodendrocyte
+KCNA1,Oligodendrocyte
+KLHL2,Oligodendrocyte
+LGI3,Oligodendrocyte
+MAP6D1,Oligodendrocyte
+MAPK3,Oligodendrocyte
+MBP,Oligodendrocyte
+NKAIN2,Oligodendrocyte
+PHLDA3,Oligodendrocyte
+PKD2L1,Oligodendrocyte
+PLEKHA1,Oligodendrocyte
+RAB37,Oligodendrocyte
+RFTN1,Oligodendrocyte
+RHPN2,Oligodendrocyte
+RNLS,Oligodendrocyte
+RTKN2,Oligodendrocyte
+SEC14L5,Oligodendrocyte
+SEMA3D,Oligodendrocyte
+SERPIND1,Oligodendrocyte
+SH3GL3,Oligodendrocyte
+TAF13,Oligodendrocyte
+TMEFF1,Oligodendrocyte
+TMEFF2,Oligodendrocyte
+TMEM117,Oligodendrocyte
+TMEM125,Oligodendrocyte
+TMEM159,Oligodendrocyte
+TRIM13,Oligodendrocyte
+TRIM36,Oligodendrocyte
+TSPAN2,Oligodendrocyte
+WIPI1,Oligodendrocyte
+WNT3,Oligodendrocyte
+ZDHHC12,Oligodendrocyte
+ABCA9,Microglia
+ABCC3,Microglia
+ADCY7,Microglia
+ADRB2,Microglia
+APAF1,Microglia
+ARRB2,Microglia
+BCL2A1,Microglia
+CD53,Microglia
+CD86,Microglia
+CENPF,Microglia
+CSF1R,Microglia
+CTSZ,Microglia
+CX3CR1,Microglia
+CYBB,Microglia
+CYTH4,Microglia
+DENND1B,Microglia
+EVI2B,Microglia
+F13A1,Microglia
+GINS2,Microglia
+GPX3,Microglia
+IL1B,Microglia
+KDM2B,Microglia
+LCP1,Microglia
+LCP2,Microglia
+LY96,Microglia
+MAN1C1,Microglia
+MASP2,Microglia
+MCFD2,Microglia
+MYO1F,Microglia
+"NAGPA",Microglia
+NCOA3,Microglia
+P2RY12,Microglia
+PACSIN2,Microglia
+PIK3CG,Microglia
+PXN,Microglia
+RAB43,Microglia
+SCPEP1,Microglia
+SKAP2,Microglia
+SLA,Microglia
+SLC16A6,Microglia
+STAB1,Microglia
+SUSD1,Microglia
+SYK,Microglia
+TAGAP,Microglia
+TGFBI,Microglia
+TLN2,Microglia
+TNFRSF11A,Microglia
+VAV1,Microglia
+ADRA1D,CA1 Pyramidal
+ADRA2C,CA1 Pyramidal
+AGAP3,CA1 Pyramidal
+ANO5,CA1 Pyramidal
+AP1S1,CA1 Pyramidal
+AR,CA1 Pyramidal
+ARL15,CA1 Pyramidal
+ARSJ,CA1 Pyramidal
+ASAP2,CA1 Pyramidal
+ASPHD2,CA1 Pyramidal
+BCR,CA1 Pyramidal
+BHLHE22,CA1 Pyramidal
+CACNA1E,CA1 Pyramidal
+CCDC109B,CA1 Pyramidal
+CCDC112,CA1 Pyramidal
+CDS1,CA1 Pyramidal
+CELSR2,CA1 Pyramidal
+CHD3,CA1 Pyramidal
+CHRD,CA1 Pyramidal
+CLCNKB,CA1 Pyramidal
+CPNE6,CA1 Pyramidal
+CRYM,CA1 Pyramidal
+CTNND2,CA1 Pyramidal
+DCLK2,CA1 Pyramidal
+DRD5,CA1 Pyramidal
+DSCAML1,CA1 Pyramidal
+EPHA6,CA1 Pyramidal
+ETV1,CA1 Pyramidal
+FAT4,CA1 Pyramidal
+FKBP1A,CA1 Pyramidal
+FKBP5,CA1 Pyramidal
+FNDC4,CA1 Pyramidal
+GABBR1,CA1 Pyramidal
+GABRA5,CA1 Pyramidal
+GPD2,CA1 Pyramidal
+GPR161,CA1 Pyramidal
+GRASP,CA1 Pyramidal
+GREM1,CA1 Pyramidal
+HUNK,CA1 Pyramidal
+JPH4,CA1 Pyramidal
+KCNA4,CA1 Pyramidal
+KCNB2,CA1 Pyramidal
+KLK7,CA1 Pyramidal
+LMO1,CA1 Pyramidal
+LPHN3,CA1 Pyramidal
+LRRC7,CA1 Pyramidal
+LRRN2,CA1 Pyramidal
+LYPD1,CA1 Pyramidal
+MATN2,CA1 Pyramidal
+MCHR1,CA1 Pyramidal
+MICAL2,CA1 Pyramidal
+MPP6,CA1 Pyramidal
+MTUS2,CA1 Pyramidal
+NDST3,CA1 Pyramidal
+NDST4,CA1 Pyramidal
+NEDD4L,CA1 Pyramidal
+NPAS2,CA1 Pyramidal
+NPR3,CA1 Pyramidal
+NTNG1,CA1 Pyramidal
+ONECUT2,CA1 Pyramidal
+OSBPL6,CA1 Pyramidal
+OTUB2,CA1 Pyramidal
+PLCH2,CA1 Pyramidal
+PLXNA1,CA1 Pyramidal
+PLXNC1,CA1 Pyramidal
+PNMAL1,CA1 Pyramidal
+POLE4,CA1 Pyramidal
+PPFIA2,CA1 Pyramidal
+PPP1R14C,CA1 Pyramidal
+PPP4R4,CA1 Pyramidal
+PRKAG2,CA1 Pyramidal
+PRNP,CA1 Pyramidal
+PSD3,CA1 Pyramidal
+PYGO1,CA1 Pyramidal
+RAB3D,CA1 Pyramidal
+RAP2B,CA1 Pyramidal
+RASAL1,CA1 Pyramidal
+RSPO2,CA1 Pyramidal
+RUNX1T1,CA1 Pyramidal
+RXRG,CA1 Pyramidal
+SERPINA3,CA1 Pyramidal
+SH3RF1,CA1 Pyramidal
+SHANK2,CA1 Pyramidal
+SLC16A14,CA1 Pyramidal
+SLC26A4,CA1 Pyramidal
+SLIT1,CA1 Pyramidal
+SLITRK3,CA1 Pyramidal
+SORL1,CA1 Pyramidal
+SRGAP3,CA1 Pyramidal
+STXBP5,CA1 Pyramidal
+SUB1,CA1 Pyramidal
+SYT17,CA1 Pyramidal
+THRB,CA1 Pyramidal
+TMEM200A,CA1 Pyramidal
+TNFRSF25,CA1 Pyramidal
+TRAIP,CA1 Pyramidal
+UHRF1BP1L,CA1 Pyramidal
+UNC13B,CA1 Pyramidal
+USP46,CA1 Pyramidal
+WSCD2,CA1 Pyramidal
+YPEL1,CA1 Pyramidal
+ZNF667,CA1 Pyramidal
+ZSCAN18,CA1 Pyramidal
+KIAA1456,Interneuron
+ACHE,Interneuron
+ADAMTS17,Interneuron
+AKAP7,Interneuron
+ALK,Interneuron
+ANK1,Interneuron
+ANKRD6,Interneuron
+APBA1,Interneuron
+ARMCX2,Interneuron
+ARMCX4,Interneuron
+ARRB1,Interneuron
+BAIAP3,Interneuron
+BCAT1,Interneuron
+BMP3,Interneuron
+C1QL1,Interneuron
+CALB2,Interneuron
+CAMK2D,Interneuron
+CDH7,Interneuron
+CIDEA,Interneuron
+CNR1,Interneuron
+CNTN5,Interneuron
+COL19A1,Interneuron
+CRHBP,Interneuron
+DLEU7,Interneuron
+DPYSL5,Interneuron
+ECE2,Interneuron
+EEPD1,Interneuron
+EPB41L1,Interneuron
+FLRT3,Interneuron
+FOXRED2,Interneuron
+FSTL5,Interneuron
+GNG4,Interneuron
+GRIK2,Interneuron
+HDAC9,Interneuron
+HTR2C,Interneuron
+KCNC1,Interneuron
+KCND3,Interneuron
+KCNMB2,Interneuron
+KCTD8,Interneuron
+LANCL3,Interneuron
+LIMK1,Interneuron
+LRP12,Interneuron
+LYPD6,Interneuron
+LYSMD4,Interneuron
+MAP3K9,Interneuron
+MCF2,Interneuron
+MID2,Interneuron
+MUM1L1,Interneuron
+NEB,Interneuron
+NECAB2,Interneuron
+NETO1,Interneuron
+NNMT,Interneuron
+NPAS1,Interneuron
+NUDT11,Interneuron
+OSBPL8,Interneuron
+OXR1,Interneuron
+OXTR,Interneuron
+PAM,Interneuron
+PANX1,Interneuron
+PCLO,Interneuron
+PLXNA3,Interneuron
+PODXL2,Interneuron
+PRMT2,Interneuron
+PTPRO,Interneuron
+PTTG1,Interneuron
+PURB,Interneuron
+RAB3B,Interneuron
+RBP4,Interneuron
+RELN,Interneuron
+RXFP1,Interneuron
+SCN5A,Interneuron
+SCN9A,Interneuron
+SETD7,Interneuron
+SHD,Interneuron
+SLC10A4,Interneuron
+SLC27A2,Interneuron
+SLC39A6,Interneuron
+SLC5A6,Interneuron
+SLC7A3,Interneuron
+SLC9A7,Interneuron
+SST,Interneuron
+STEAP2,Interneuron
+SV2A,Interneuron
+SYNPR,Interneuron
+TCERG1L,Interneuron
+TMEM132E,Interneuron
+TMEM53,Interneuron
+TNFSF13B,Interneuron
+TRIM67,Interneuron
+TTC39A,Interneuron
+TTC39B,Interneuron
+UBASH3B,Interneuron
+USP13,Interneuron
+VSTM2A,Interneuron
+VWC2,Interneuron
+WDR6,Interneuron
+WIF1,Interneuron
+ZBTB16,Interneuron
+ZNF385A,Interneuron
+ZNF385B,Interneuron
+C10orf10,Endothelial
+ABCB1,Endothelial
+ABCC9,Endothelial
+AKAP13,Endothelial
+APCDD1,Endothelial
+APLNR,Endothelial
+C1orf54,Endothelial
+CD59,Endothelial
+CLDN5,Endothelial
+CMTM8,Endothelial
+DCUN1D3,Endothelial
+EFR3B,Endothelial
+ELTD1,Endothelial
+EMCN,Endothelial
+ENG,Endothelial
+ETS2,Endothelial
+ETV6,Endothelial
+FBLN2,Endothelial
+FLT1,Endothelial
+FZD6,Endothelial
+GPR116,Endothelial
+GRK5,Endothelial
+HEG1,Endothelial
+IER5L,Endothelial
+ITM2A,Endothelial
+KITLG,Endothelial
+LAMB1,Endothelial
+LEF1,Endothelial
+LNX2,Endothelial
+LRCH1,Endothelial
+LRRC8C,Endothelial
+LTBP4,Endothelial
+LUZP1,Endothelial
+MAOA,Endothelial
+MAP3K3,Endothelial
+MAP4K2,Endothelial
+MKNK2,Endothelial
+MOSPD1,Endothelial
+MYCT1,Endothelial
+PALMD,Endothelial
+PCDH1,Endothelial
+PTPRR,Endothelial
+RAPGEF4,Endothelial
+RPS6,Endothelial
+SEMA7A,Endothelial
+SERPINB9,Endothelial
+SH3GLB1,Endothelial
+SIPA1L2,Endothelial
+SLC35F2,Endothelial
+SLC38A5,Endothelial
+SLC6A6,Endothelial
+SLC7A1,Endothelial
+SOX4,Endothelial
+SPOCK2,Endothelial
+SRGAP1,Endothelial
+STARD4,Endothelial
+TSPAN18,Endothelial
+ADCYAP1,S1 Pyramidal
+ADRB1,S1 Pyramidal
+ARPP19,S1 Pyramidal
+ATP1A1,S1 Pyramidal
+ATP2A2,S1 Pyramidal
+ATP2B2,S1 Pyramidal
+B4GALT2,S1 Pyramidal
+CA10,S1 Pyramidal
+CCKBR,S1 Pyramidal
+CNTNAP5,S1 Pyramidal
+COL5A1,S1 Pyramidal
+CPNE9,S1 Pyramidal
+CYP26B1,S1 Pyramidal
+DOC2A,S1 Pyramidal
+E2F1,S1 Pyramidal
+ERC2,S1 Pyramidal
+FBXL2,S1 Pyramidal
+FSTL4,S1 Pyramidal
+GFRA2,S1 Pyramidal
+GPR88,S1 Pyramidal
+GRM2,S1 Pyramidal
+GRM8,S1 Pyramidal
+GSG1L,S1 Pyramidal
+GTDC1,S1 Pyramidal
+HTR1F,S1 Pyramidal
+HTR2A,S1 Pyramidal
+IGSF21,S1 Pyramidal
+KCNH1,S1 Pyramidal
+KCNH4,S1 Pyramidal
+KCNH5,S1 Pyramidal
+KCNH7,S1 Pyramidal
+KCNJ11,S1 Pyramidal
+KCNJ9,S1 Pyramidal
+KCNS1,S1 Pyramidal
+KCNT2,S1 Pyramidal
+KLHL1,S1 Pyramidal
+KRT222,S1 Pyramidal
+LPCAT4,S1 Pyramidal
+MAPK11,S1 Pyramidal
+MGAT4C,S1 Pyramidal
+MYRIP,S1 Pyramidal
+NECAB3,S1 Pyramidal
+NEGR1,S1 Pyramidal
+NTSR1,S1 Pyramidal
+NXPH3,S1 Pyramidal
+OPN3,S1 Pyramidal
+OPRK1,S1 Pyramidal
+OSBP2,S1 Pyramidal
+OVOL2,S1 Pyramidal
+PACS1,S1 Pyramidal
+PCDH7,S1 Pyramidal
+PCP4,S1 Pyramidal
+PCSK5,S1 Pyramidal
+PFKP,S1 Pyramidal
+PTPRK,S1 Pyramidal
+RASGEF1C,S1 Pyramidal
+SCN4B,S1 Pyramidal
+SCUBE1,S1 Pyramidal
+SDK2,S1 Pyramidal
+SEMA5B,S1 Pyramidal
+SLC24A2,S1 Pyramidal
+SOX5,S1 Pyramidal
+SSTR2,S1 Pyramidal
+ST3GAL5,S1 Pyramidal
+STARD10,S1 Pyramidal
+STAT4,S1 Pyramidal
+STRBP,S1 Pyramidal
+STX1A,S1 Pyramidal
+TBR1,S1 Pyramidal
+TIAM2,S1 Pyramidal
+TMEM132A,S1 Pyramidal
+TPBG,S1 Pyramidal
+VOPP1,S1 Pyramidal
+ACSL3,Astrocyte
+ACSL6,Astrocyte
+ADCY2,Astrocyte
+ADD3,Astrocyte
+AGPAT3,Astrocyte
+AGPAT5,Astrocyte
+AIFM2,Astrocyte
+ALDOC,Astrocyte
+AMT,Astrocyte
+ARHGEF10L,Astrocyte
+B3GALTL,Astrocyte
+CHRDL1,Astrocyte
+CRY2,Astrocyte
+CSPG5,Astrocyte
+CTNNBIP1,Astrocyte
+ELMO2,Astrocyte
+EPHX2,Astrocyte
+EYA1,Astrocyte
+FABP7,Astrocyte
+FAM107A,Astrocyte
+FARP1,Astrocyte
+FBXO2,Astrocyte
+FREM2,Astrocyte
+GABRG1,Astrocyte
+GLI2,Astrocyte
+GLUD1,Astrocyte
+GPC6,Astrocyte
+HEPH,Astrocyte
+HEY1,Astrocyte
+HSD11B1,Astrocyte
+LGI4,Astrocyte
+LRRC2,Astrocyte
+LSAMP,Astrocyte
+LUZP2,Astrocyte
+LXN,Astrocyte
+NCAN,Astrocyte
+NTSR2,Astrocyte
+PRKD1,Astrocyte
+RANBP3L,Astrocyte
+RELT,Astrocyte
+RGS20,Astrocyte
+SDSL,Astrocyte
+SESN3,Astrocyte
+SLC1A4,Astrocyte
+SLC30A10,Astrocyte
+SLC7A11,Astrocyte
+SNTA1,Astrocyte
+SRC,Astrocyte
+SYCP2,Astrocyte
+THBS4,Astrocyte
+TM7SF2,Astrocyte
+TRPS1,Astrocyte
+UGP2,Astrocyte
+ZMPSTE24,Astrocyte
+ADAMTS16,Mural
+ADAMTS8,Mural
+AMIGO2,Mural
+ARHGAP10,Mural
+ARID3B,Mural
+ASB2,Mural
+BMP5,Mural
+C1R,Mural
+C1S,Mural
+DOK6,Mural
+ERRFI1,Mural
+GUCY1B3,Mural
+IL34,Mural
+ITGA8,Mural
+LIPG,Mural
+MOB2,Mural
+MOXD1,Mural
+MYLK,Mural
+NRIP2,Mural
+OBSCN,Mural
+PDE3A,Mural
+PLA2R1,Mural
+RCN3,Mural
+SLC38A11,Mural
+ST5,Mural

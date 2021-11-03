@@ -1,0 +1,3190 @@
+cell_type,gene_symbol
+Ependymal,0610009L18Rik
+Ependymal,1110008J03Rik
+Ependymal,1110017D15Rik
+Ependymal,1700001O22Rik
+Ependymal,1700003E16Rik
+Ependymal,1700003M02Rik
+Ependymal,1700007G11Rik
+Ependymal,1700007K13Rik
+Ependymal,1700007L15Rik
+Ependymal,1700009P17Rik
+Ependymal,1700013F07Rik
+Ependymal,1700013G23Rik
+Ependymal,1700016K19Rik
+Ependymal,1700028P14Rik
+Ependymal,1700029J07Rik
+Ependymal,1700088E04Rik
+Ependymal,1700094D03Rik
+Ependymal,1810010H24Rik
+Ependymal,1810020O05Rik
+Ependymal,2310010J17Rik
+Ependymal,2610301B20Rik
+Ependymal,2610507I01Rik
+Ependymal,2810047C21Rik1
+Ependymal,2810403D21Rik
+Ependymal,2810433D01Rik
+Ependymal,3110021N24Rik
+Ependymal,4430402I18Rik
+Ependymal,4922501L14Rik
+Ependymal,4930451C15Rik
+Ependymal,4930529M08Rik
+Ependymal,4931440P22Rik
+Ependymal,4932438H23Rik
+Ependymal,4933407L21Rik
+Ependymal,5033411D12Rik
+Ependymal,5330413P13Rik
+Ependymal,6430550D23Rik
+Ependymal,6820408C15Rik
+Ependymal,8430431K14Rik
+Ependymal,9230110C19Rik
+Ependymal,9230114K14Rik
+Ependymal,A330021E22Rik
+Ependymal,A330049N07Rik
+Ependymal,A630066F11Rik
+Ependymal,A930006K02Rik
+Ependymal,Abca4
+Ependymal,Abca8a
+Ependymal,Acad12
+Ependymal,Ace
+Ependymal,Acot1
+Ependymal,Acot5
+Ependymal,Adamts20
+Ependymal,Aebp1
+Ependymal,AK129341
+Ependymal,Ak7
+Ependymal,Ak8
+Ependymal,Akip1
+Ependymal,Alms1
+Ependymal,Ankrd42
+Ependymal,Anxa11
+Ependymal,Apeh
+Ependymal,Armc3
+Ependymal,Arvcf
+Ependymal,Ascc1
+Ependymal,Atp8b5
+Ependymal,B9d1
+Ependymal,Bace2
+Ependymal,BC021891
+Ependymal,BC026585
+Ependymal,Bdh2
+Ependymal,Bicc1
+Ependymal,Bphl
+Ependymal,Btbd8
+Ependymal,C1qtnf5
+Ependymal,Capsl
+Ependymal,Car12
+Ependymal,Casc1
+Ependymal,Catsperg1
+Ependymal,Ccdc103
+Ependymal,Ccdc108
+Ependymal,Ccdc113
+Ependymal,Ccdc114
+Ependymal,Ccdc122
+Ependymal,Ccdc135
+Ependymal,Ccdc146
+Ependymal,Ccdc147
+Ependymal,Ccdc148
+Ependymal,Ccdc153
+Ependymal,Ccdc176
+Ependymal,Ccdc17
+Ependymal,Ccdc19
+Ependymal,Ccdc30
+Ependymal,Ccdc34
+Ependymal,Ccdc37
+Ependymal,Ccdc39
+Ependymal,Ccdc40
+Ependymal,Ccdc65
+Ependymal,Ccdc81
+Ependymal,Ccdc87
+Ependymal,Ccdc89
+Ependymal,Ccdc96
+Ependymal,Ccno
+Ependymal,Cd109
+Ependymal,Cd24a
+Ependymal,Cd55
+Ependymal,Cdkl4
+Ependymal,Cdr2
+Ependymal,Celsr1
+Ependymal,Cenpo
+Ependymal,Cep128
+Ependymal,Cetn2
+Ependymal,Cetn4
+Ependymal,Chchd10
+Ependymal,Chek2
+Ependymal,Cldn1
+Ependymal,Clec3b
+Ependymal,Cmtm4
+Ependymal,Cnn3
+Ependymal,Col1a1
+Ependymal,Col5a2
+Ependymal,Col6a2
+Ependymal,Col6a5
+Ependymal,Col7a1
+Ependymal,Col8a2
+Ependymal,Col9a1
+Ependymal,Cox6b2
+Ependymal,Cox7a1
+Ependymal,Cpne2
+Ependymal,Crb2
+Ependymal,Crocc
+Ependymal,Crygn
+Ependymal,Csad
+Ependymal,Daw1
+Ependymal,Dbi
+Ependymal,Dbp
+Ependymal,Dcdc2a
+Ependymal,Dchs1
+Ependymal,Ddo
+Ependymal,Ddx11
+Ependymal,Dhx40
+Ependymal,Dmkn
+Ependymal,Dmpk
+Ependymal,Dnaaf1
+Ependymal,Dnah10
+Ependymal,Dnah11
+Ependymal,Dnah1
+Ependymal,Dnah2
+Ependymal,Dnah5
+Ependymal,Dnah6
+Ependymal,Dnah7a
+Ependymal,Dnah7b
+Ependymal,Dnah9
+Ependymal,Dnaic1
+Ependymal,Dnaic2
+Ependymal,Dnaja4
+Ependymal,Dnajc3
+Ependymal,Dnali1
+Ependymal,Dnmbp
+Ependymal,Dpcd
+Ependymal,Drc1
+Ependymal,Dsg2
+Ependymal,Dusp18
+Ependymal,Dync2li1
+Ependymal,Dynlrb2
+Ependymal,Dyx1c1
+Ependymal,E230008N13Rik
+Ependymal,E530011L22Rik
+Ependymal,Efcab10
+Ependymal,Efcab1
+Ependymal,Efcab2
+Ependymal,Efcab7
+Ependymal,Efhc1
+Ependymal,Eid3
+Ependymal,Elmod3
+Ependymal,Elof1
+Ependymal,Emb
+Ependymal,Enkur
+Ependymal,Eno4
+Ependymal,Eppk1
+Ependymal,Erich2
+Ependymal,Etfa
+Ependymal,Ext1
+Ependymal,Fam126a
+Ependymal,Fam154b
+Ependymal,Fam160a1
+Ependymal,Fam179a
+Ependymal,Fam183b
+Ependymal,Fam216b
+Ependymal,Fam221a
+Ependymal,Fam227a
+Ependymal,Fam71a
+Ependymal,Fam78a
+Ependymal,Fam84b
+Ependymal,Fank1
+Ependymal,Fbln7
+Ependymal,Fbxo10
+Ependymal,Fbxo16
+Ependymal,Fgd4
+Ependymal,Fhad1
+Ependymal,Fhl1
+Ependymal,Fhl3
+Ependymal,Fibin
+Ependymal,Flnc
+Ependymal,Fndc1
+Ependymal,Foxj1
+Ependymal,Gadd45g
+Ependymal,Galk2
+Ependymal,Gas8
+Ependymal,Gchfr
+Ependymal,Gdf11
+Ependymal,Gkap1
+Ependymal,Glb1l2
+Ependymal,Gm10941
+Ependymal,Gm11837
+Ependymal,Gm11992
+Ependymal,Gm14378
+Ependymal,Gm14446
+Ependymal,Gm15645
+Ependymal,Gm16119
+Ependymal,Gm166
+Ependymal,Gm17455
+Ependymal,Gm19522
+Ependymal,Gm216
+Ependymal,Gm4013
+Ependymal,Gm5617
+Ependymal,Gm5918
+Ependymal,Gm7694
+Ependymal,Gm872
+Ependymal,Gm973
+Ependymal,Gm9839
+Ependymal,Gnai3
+Ependymal,Gpr98
+Ependymal,Gramd1c
+Ependymal,Gstt1
+Ependymal,H2afv
+Ependymal,Hdc
+Ependymal,Hipk1
+Ependymal,Hist1h1d
+Ependymal,Hist1h4b
+Ependymal,Hist1h4j
+Ependymal,Hist1h4n_loc1
+Ependymal,Hist2h3c2
+Ependymal,Hmga2
+Ependymal,Hmgn1
+Ependymal,Hrasls
+Ependymal,Hsp90aa1
+Ependymal,Hspa2
+Ependymal,Hspb6
+Ependymal,Htr1b
+Ependymal,Hydin
+Ependymal,Iffo2
+Ependymal,Ifit3
+Ependymal,Igf2
+Ependymal,Il17rc
+Ependymal,Intu
+Ependymal,Iqca
+Ependymal,Iqcd
+Ependymal,Iqcg
+Ependymal,Iqck
+Ependymal,Iqub
+Ependymal,Irak3
+Ependymal,Jund
+Ependymal,Katnal2
+Ependymal,Kif26b
+Ependymal,Kif27
+Ependymal,Kif6
+Ependymal,Kif9
+Ependymal,Kl
+Ependymal,Klhdc9
+Ependymal,Klkb1
+Ependymal,Kremen1
+Ependymal,Krt15
+Ependymal,Lama3
+Ependymal,Laptm4a
+Ependymal,Lbp
+Ependymal,Lca5
+Ependymal,Lect1
+Ependymal,Lgals3
+Ependymal,Lrguk
+Ependymal,Lrrc23
+Ependymal,Lrrc43
+Ependymal,Lrrc46
+Ependymal,Lrrc48
+Ependymal,Lrrc51
+Ependymal,Lrrc6
+Ependymal,Lrrc71
+Ependymal,Lrrc9
+Ependymal,Lrriq1
+Ependymal,Lypla2
+Ependymal,Maats1
+Ependymal,Mageh1
+Ependymal,Mak
+Ependymal,Map10
+Ependymal,Mdh1b
+Ependymal,Mdm1
+Ependymal,Meig1
+Ependymal,Mettl7a2
+Ependymal,Mfsd7b
+Ependymal,Mia
+Ependymal,Mks1
+Ependymal,Mlf1
+Ependymal,Mns1
+Ependymal,Morn1
+Ependymal,Morn5
+Ependymal,Mro
+Ependymal,Msx1
+Ependymal,Myb
+Ependymal,Mybl2
+Ependymal,Mycbp
+Ependymal,Myo5c
+Ependymal,Myo7a
+Ependymal,N4bp2
+Ependymal,Nek11
+Ependymal,Nek5
+Ependymal,Nin
+Ependymal,Nipal2
+Ependymal,Nmb
+Ependymal,Nme5
+Ependymal,Nphp1
+Ependymal,Nppc
+Ependymal,Nr1d1
+Ependymal,Nrp
+Ependymal,Nthl1
+Ependymal,Nudc
+Ependymal,Odf3b
+Ependymal,Ogn
+Ependymal,Oscp1
+Ependymal,Otud1
+Ependymal,Otx1
+Ependymal,P2rx6
+Ependymal,Pard6g
+Ependymal,Parp16
+Ependymal,Pawr
+Ependymal,Pcolce2
+Ependymal,Pde1c
+Ependymal,Per2
+Ependymal,Phykpl
+Ependymal,Pifo
+Ependymal,Pih1d2
+Ependymal,Pla2g5
+Ependymal,Plagl1
+Ependymal,Plin5
+Ependymal,Plscr2
+Ependymal,Postn
+Ependymal,Ppap2a
+Ependymal,Ppil6
+Ependymal,Ppp1r32
+Ependymal,Ppp1r42
+Ependymal,Prdx4
+Ependymal,Prlr
+Ependymal,Pstpip1
+Ependymal,Ptpn21
+Ependymal,Pus7
+Ependymal,Pygl
+Ependymal,Rab11fip4
+Ependymal,Rab42
+Ependymal,Rarb
+Ependymal,Rdh10
+Ependymal,Rest
+Ependymal,Rfx2
+Ependymal,Rfx3
+Ependymal,Rgag4
+Ependymal,Rhbdd1
+Ependymal,Ribc2
+Ependymal,Riiad1
+Ependymal,Rln1
+Ependymal,Rn4.5s_loc1
+Ependymal,Rn4.5s_loc2
+Ependymal,Rnf138rt1
+Ependymal,Ropn1l
+Ependymal,Rpgr
+Ependymal,Rsph1
+Ependymal,Rsph3b
+Ependymal,Rsph4a
+Ependymal,Rsph9
+Ependymal,Ruvbl2
+Ependymal,S100a6
+Ependymal,Scn7a
+Ependymal,Sctr
+Ependymal,Sec24d
+Ependymal,Sema3b
+Ependymal,Serinc2
+Ependymal,Serpinb1b
+Ependymal,Sfrp1
+Ependymal,Ski
+Ependymal,Slc16a12
+Ependymal,Slc22a4
+Ependymal,Slc26a2
+Ependymal,Slc26a3
+Ependymal,Slc29a4
+Ependymal,Slc2a12
+Ependymal,Slc39a13
+Ependymal,Slc43a3
+Ependymal,Smad5
+Ependymal,Smim5
+Ependymal,Smoc1
+Ependymal,Snrpa
+Ependymal,Socs1
+Ependymal,Sord
+Ependymal,Sostdc1
+Ependymal,Sp7
+Ependymal,Spa17
+Ependymal,Spag17
+Ependymal,Spag6
+Ependymal,Spag8
+Ependymal,Spata17
+Ependymal,Spata24
+Ependymal,Spata33
+Ependymal,Spata6
+Ependymal,Spef1
+Ependymal,Spef2
+Ependymal,Spint2
+Ependymal,Ssh1
+Ependymal,St8sia2
+Ependymal,Stk30
+Ependymal,Stk33
+Ependymal,Stk36
+Ependymal,Stpg1
+Ependymal,Stxbp4
+Ependymal,Styxl1
+Ependymal,Sulf1
+Ependymal,Syne1_loc2
+Ependymal,Syt10
+Ependymal,Tango6
+Ependymal,Tbcel
+Ependymal,Tchh
+Ependymal,Tcp11l2
+Ependymal,Tctex1d1
+Ependymal,Tctex1d4
+Ependymal,Tctn2
+Ependymal,Tekt1
+Ependymal,Tekt4
+Ependymal,Tex9
+Ependymal,Tgif2
+Ependymal,Tmem107
+Ependymal,Tmem108
+Ependymal,Tmem216
+Ependymal,Tmem220
+Ependymal,Tmprss7
+Ependymal,Tob1
+Ependymal,Trim68
+Ependymal,Trp53i13
+Ependymal,Trp63
+Ependymal,Trpm3
+Ependymal,Tsga10
+Ependymal,Tspan6
+Ependymal,Ttc12
+Ependymal,Ttc18
+Ependymal,Ttc25
+Ependymal,Ttc30a2
+Ependymal,Ttc30b
+Ependymal,Ttc34
+Ependymal,Ttc8
+Ependymal,Ttll13
+Ependymal,Ttll9
+Ependymal,Ttr
+Ependymal,Tubb4b
+Ependymal,Twist2
+Ependymal,Uba6
+Ependymal,Ubxn10
+Ependymal,Ubxn11
+Ependymal,Ucma
+Ependymal,Ung
+Ependymal,Upp1
+Ependymal,Urah
+Ependymal,Vit
+Ependymal,Vwa3a
+Ependymal,Wdr16
+Ependymal,Wdr31
+Ependymal,Wdr35
+Ependymal,Wdr52
+Ependymal,Wdr65
+Ependymal,Wdr78
+Ependymal,Wdr96
+Ependymal,Wdyhv1
+Ependymal,Wnt11
+Ependymal,Xpc
+Ependymal,Xylb
+Ependymal,Zc2hc1c
+Ependymal,Zcchc4
+Ependymal,Zfp185
+Ependymal,Zfp229
+Ependymal,Zfp395
+Ependymal,Zfp786
+Ependymal,Zmynd10
+Oligodendrocyte,0610007P14Rik
+Oligodendrocyte,1110020A21Rik
+Oligodendrocyte,1110057K04Rik
+Oligodendrocyte,1500004A13Rik
+Oligodendrocyte,1500015L24Rik
+Oligodendrocyte,1700001P01Rik
+Oligodendrocyte,1700047M11Rik
+Oligodendrocyte,1810037I17Rik
+Oligodendrocyte,1810058I24Rik
+Oligodendrocyte,2310069G16Rik
+Oligodendrocyte,2610316D01Rik
+Oligodendrocyte,2700046A07Rik
+Oligodendrocyte,2700070H01Rik
+Oligodendrocyte,2810410L24Rik
+Oligodendrocyte,2810429I04Rik
+Oligodendrocyte,2810468N07Rik
+Oligodendrocyte,3110007F17Rik
+Oligodendrocyte,3110045C21Rik
+Oligodendrocyte,4930402H24Rik
+Oligodendrocyte,4930452G13Rik
+Oligodendrocyte,4930506C21Rik
+Oligodendrocyte,5031410I06Rik
+Oligodendrocyte,5031439G07Rik
+Oligodendrocyte,5330426P16Rik
+Oligodendrocyte,6330416G13Rik
+Oligodendrocyte,9330117O12Rik
+Oligodendrocyte,9330188P03Rik
+Oligodendrocyte,9630013A20Rik
+Oligodendrocyte,A230001M10Rik
+Oligodendrocyte,A230009B12Rik
+Oligodendrocyte,AA986860
+Oligodendrocyte,Aamdc
+Oligodendrocyte,Aatk
+Oligodendrocyte,Abca2
+Oligodendrocyte,Abl1
+Oligodendrocyte,Abtb2
+Oligodendrocyte,Acat2
+Oligodendrocyte,Adh5
+Oligodendrocyte,Adi1
+Oligodendrocyte,Ado
+Oligodendrocyte,Adssl1
+Oligodendrocyte,Agpat4
+Oligodendrocyte,Aldh9a1
+Oligodendrocyte,Angpt4
+Oligodendrocyte,Ankrd13a
+Oligodendrocyte,Ankrd28
+Oligodendrocyte,Anln
+Oligodendrocyte,Ano10
+Oligodendrocyte,Ano4
+Oligodendrocyte,Ap3m1
+Oligodendrocyte,Ap5z1
+Oligodendrocyte,Aplp1
+Oligodendrocyte,Apod
+Oligodendrocyte,Arfgap3
+Oligodendrocyte,Arhgap23
+Oligodendrocyte,Arhgef10
+Oligodendrocyte,Arl2
+Oligodendrocyte,Arrdc3
+Oligodendrocyte,Arsg
+Oligodendrocyte,Asah2
+Oligodendrocyte,Aspa
+Oligodendrocyte,Atat1
+Oligodendrocyte,Atp10b
+Oligodendrocyte,Atp11a
+Oligodendrocyte,Atp1b3
+Oligodendrocyte,B230206H07Rik
+Oligodendrocyte,B3galt5
+Oligodendrocyte,B3gnt9
+Oligodendrocyte,Bcap31
+Oligodendrocyte,Bet1
+Oligodendrocyte,Bfsp2
+Oligodendrocyte,Bpgm
+Oligodendrocyte,Btbd16
+Oligodendrocyte,Btc
+Oligodendrocyte,C030029H02Rik
+Oligodendrocyte,Cacna2d4
+Oligodendrocyte,Car2
+Oligodendrocyte,Catsper2
+Oligodendrocyte,Ccdc163
+Oligodendrocyte,Ccdc28b
+Oligodendrocyte,Ccnjl
+Oligodendrocyte,Ccnyl1
+Oligodendrocyte,Ccp110
+Oligodendrocyte,Cdc37l1
+Oligodendrocyte,Cdc42ep2
+Oligodendrocyte,Cdk18
+Oligodendrocyte,Cdr2l
+Oligodendrocyte,Cenpq
+Oligodendrocyte,Cep72
+Oligodendrocyte,Cep97
+Oligodendrocyte,Cercam
+Oligodendrocyte,Cers2
+Oligodendrocyte,Cfl2
+Oligodendrocyte,Chadl
+Oligodendrocyte,Chdh
+Oligodendrocyte,Chmp1b
+Oligodendrocyte,Chn2
+Oligodendrocyte,Chst3
+Oligodendrocyte,Clasrp
+Oligodendrocyte,Cldn11
+Oligodendrocyte,Cldn25
+Oligodendrocyte,Clgn
+Oligodendrocyte,Cnp
+Oligodendrocyte,Cntn2
+Oligodendrocyte,Commd6
+Oligodendrocyte,Commd9
+Oligodendrocyte,Cpd
+Oligodendrocyte,Cpox
+Oligodendrocyte,Creb3l2
+Oligodendrocyte,Cryab
+Oligodendrocyte,Ctps
+Oligodendrocyte,Cyb5
+Oligodendrocyte,Cyb5r2
+Oligodendrocyte,Cyp2j12
+Oligodendrocyte,Cyp3a13
+Oligodendrocyte,D16Ertd472e
+Oligodendrocyte,D7Ertd443e
+Oligodendrocyte,Dbndd2
+Oligodendrocyte,Dcps
+Oligodendrocyte,Ddit4
+Oligodendrocyte,Ddrgk1
+Oligodendrocyte,Deb1
+Oligodendrocyte,Degs1
+Oligodendrocyte,Depdc1b
+Oligodendrocyte,Desi1
+Oligodendrocyte,Dhcr24
+Oligodendrocyte,Diablo
+Oligodendrocyte,Dip2a
+Oligodendrocyte,Dixdc1
+Oligodendrocyte,Dnajb2
+Oligodendrocyte,Dnajc24
+Oligodendrocyte,Dpy19l1
+Oligodendrocyte,Dusp15
+Oligodendrocyte,E130308A19Rik
+Oligodendrocyte,Ebp
+Oligodendrocyte,Eef1d
+Oligodendrocyte,Efcab14
+Oligodendrocyte,Efnb3
+Oligodendrocyte,Elovl1
+Oligodendrocyte,Elovl6
+Oligodendrocyte,Eml1
+Oligodendrocyte,En2
+Oligodendrocyte,Endod1
+Oligodendrocyte,Enoph1
+Oligodendrocyte,Enpp4
+Oligodendrocyte,Enpp6
+Oligodendrocyte,Epb4.1l3
+Oligodendrocyte,Epn2
+Oligodendrocyte,Erbb3
+Oligodendrocyte,Erf
+Oligodendrocyte,Ermn
+Oligodendrocyte,Ermp1
+Oligodendrocyte,Fads6
+Oligodendrocyte,Fah
+Oligodendrocyte,Fam102a
+Oligodendrocyte,Fam122b
+Oligodendrocyte,Fam173b
+Oligodendrocyte,Fam178b_loc2
+Oligodendrocyte,Fam222a
+Oligodendrocyte,Fam57a
+Oligodendrocyte,Fam83d
+Oligodendrocyte,Fbxo32
+Oligodendrocyte,Fbxo7
+Oligodendrocyte,Fdps
+Oligodendrocyte,Fez1
+Oligodendrocyte,Fgd3
+Oligodendrocyte,Fhdc1
+Oligodendrocyte,Fign
+Oligodendrocyte,Fmnl2
+Oligodendrocyte,Fnbp1
+Oligodendrocyte,Fnta
+Oligodendrocyte,Foxn2
+Oligodendrocyte,Frmd8
+Oligodendrocyte,Fth1
+Oligodendrocyte,Gal3st1
+Oligodendrocyte,Galnt6
+Oligodendrocyte,Gamt
+Oligodendrocyte,Ghdc
+Oligodendrocyte,Gjb1
+Oligodendrocyte,Gjc2
+Oligodendrocyte,Gjc3
+Oligodendrocyte,Glod4
+Oligodendrocyte,Gm10373
+Oligodendrocyte,Gm10863
+Oligodendrocyte,Gm12530
+Oligodendrocyte,Gm13363
+Oligodendrocyte,Gm16515
+Oligodendrocyte,Gm9895
+Oligodendrocyte,Gna12
+Oligodendrocyte,Gng7
+Oligodendrocyte,Gng8
+Oligodendrocyte,Golga7
+Oligodendrocyte,Gpd1
+Oligodendrocyte,Gpr155
+Oligodendrocyte,Gpr37
+Oligodendrocyte,Gpr62
+Oligodendrocyte,Grb14
+Oligodendrocyte,Grhpr
+Oligodendrocyte,Gsn
+Oligodendrocyte,Gss
+Oligodendrocyte,Gstp1
+Oligodendrocyte,Gyg
+Oligodendrocyte,Haus3
+Oligodendrocyte,Haus5
+Oligodendrocyte,Hcn2
+Oligodendrocyte,Hint3
+Oligodendrocyte,Hip1r
+Oligodendrocyte,Hipk2
+Oligodendrocyte,Hist1h2be
+Oligodendrocyte,Hist1h2bh
+Oligodendrocyte,Hist1h2bn
+Oligodendrocyte,Hmgcs1
+Oligodendrocyte,Hn1l
+Oligodendrocyte,Hs3st1
+Oligodendrocyte,Hsd17b10
+Oligodendrocyte,Hsd17b12
+Oligodendrocyte,Hsd17b7
+Oligodendrocyte,Ick
+Oligodendrocyte,Il12rb1
+Oligodendrocyte,Il1rap
+Oligodendrocyte,Il23a
+Oligodendrocyte,Ilvbl
+Oligodendrocyte,Itgad
+Oligodendrocyte,Josd2
+Oligodendrocyte,Kat2b
+Oligodendrocyte,Kcna1
+Oligodendrocyte,Kctd13
+Oligodendrocyte,Kif13a
+Oligodendrocyte,Kif13b
+Oligodendrocyte,Kif19a
+Oligodendrocyte,Klhl2
+Oligodendrocyte,Klk6
+Oligodendrocyte,Kndc1
+Oligodendrocyte,Krcc1
+Oligodendrocyte,Lcorl
+Oligodendrocyte,Lgi3
+Oligodendrocyte,Limch1
+Oligodendrocyte,Lmf1
+Oligodendrocyte,Lsm5
+Oligodendrocyte,Lss
+Oligodendrocyte,Ly6g6f
+Oligodendrocyte,Lzts2
+Oligodendrocyte,Mag
+Oligodendrocyte,Malat1
+Oligodendrocyte,Mal
+Oligodendrocyte,Map6d1
+Oligodendrocyte,Map7
+Oligodendrocyte,Mapk3
+Oligodendrocyte,March8
+Oligodendrocyte,Masp1
+Oligodendrocyte,Mbp
+Oligodendrocyte,Micall1
+Oligodendrocyte,Mir1897
+Oligodendrocyte,Mobp
+Oligodendrocyte,Mog
+Oligodendrocyte,Mon2
+Oligodendrocyte,Mpc1
+Oligodendrocyte,Mpp5
+Oligodendrocyte,Mpst
+Oligodendrocyte,Mtm1
+Oligodendrocyte,Mtmr10
+Oligodendrocyte,Mvk
+Oligodendrocyte,Myrf
+Oligodendrocyte,Nacad
+Oligodendrocyte,Nek3
+Oligodendrocyte,Nfasc
+Oligodendrocyte,Nfe2l3
+Oligodendrocyte,Ninj2
+Oligodendrocyte,Nipa1
+Oligodendrocyte,Nipal4
+Oligodendrocyte,Nipsnap3b
+Oligodendrocyte,Nkain1
+Oligodendrocyte,Nkain2
+Oligodendrocyte,Nkx2-2os
+Oligodendrocyte,Nkx6-2
+Oligodendrocyte,Nmral1
+Oligodendrocyte,Npsr1
+Oligodendrocyte,Nrbp2
+Oligodendrocyte,Nt5e
+Oligodendrocyte,Nudt1
+Oligodendrocyte,Olig1
+Oligodendrocyte,Omg
+Oligodendrocyte,Opalin
+Oligodendrocyte,Otud7b
+Oligodendrocyte,P4hb
+Oligodendrocyte,Pacs2
+Oligodendrocyte,Papss1
+Oligodendrocyte,Pard3
+Oligodendrocyte,Pcbp4
+Oligodendrocyte,Pcdh9
+Oligodendrocyte,Pcyt2
+Oligodendrocyte,Pde4b
+Oligodendrocyte,Pdlim2
+Oligodendrocyte,Peg12
+Oligodendrocyte,Pex2
+Oligodendrocyte,Pfkfb3
+Oligodendrocyte,Phc1
+Oligodendrocyte,Phlda3
+Oligodendrocyte,Phlpp1
+Oligodendrocyte,Piga
+Oligodendrocyte,Pigz
+Oligodendrocyte,Pik3c2b
+Oligodendrocyte,Pkd2l1
+Oligodendrocyte,Plcl1
+Oligodendrocyte,Plekha1
+Oligodendrocyte,Plekhf1
+Oligodendrocyte,Plekhh1
+Oligodendrocyte,Pllp
+Oligodendrocyte,Plp1
+Oligodendrocyte,Pmvk
+Oligodendrocyte,Polr3e
+Oligodendrocyte,Pop4
+Oligodendrocyte,Ppap2c
+Oligodendrocyte,Ppp1r16b
+Oligodendrocyte,Prim2
+Oligodendrocyte,Prima1
+Oligodendrocyte,Prob1
+Oligodendrocyte,Ptch1
+Oligodendrocyte,Ptgds
+Oligodendrocyte,Ptpdc1
+Oligodendrocyte,Ptpla
+Oligodendrocyte,Ptprd
+Oligodendrocyte,Pxmp4
+Oligodendrocyte,Qdpr
+Oligodendrocyte,Rab33a
+Oligodendrocyte,Rab33b
+Oligodendrocyte,Rab37
+Oligodendrocyte,Ralgds
+Oligodendrocyte,Rap1a
+Oligodendrocyte,Rbpjl
+Oligodendrocyte,Rcbtb1
+Oligodendrocyte,Rdh11
+Oligodendrocyte,Rdx
+Oligodendrocyte,Rftn1
+Oligodendrocyte,Rfxank
+Oligodendrocyte,Rhou
+Oligodendrocyte,Rhpn2
+Oligodendrocyte,Rnf122
+Oligodendrocyte,Rnf135
+Oligodendrocyte,Rnf13
+Oligodendrocyte,Rnf141
+Oligodendrocyte,Rnf43
+Oligodendrocyte,Rnf7
+Oligodendrocyte,Rnls
+Oligodendrocyte,Rtkn2
+Oligodendrocyte,Rtkn
+Oligodendrocyte,S1pr5
+Oligodendrocyte,Sass6
+Oligodendrocyte,Sbds
+Oligodendrocyte,Sc5d
+Oligodendrocyte,Scarb2
+Oligodendrocyte,Sccpdh
+Oligodendrocyte,Scd3
+Oligodendrocyte,Scd4
+Oligodendrocyte,Sec11c
+Oligodendrocyte,Sec14l5
+Oligodendrocyte,Secisbp2l
+Oligodendrocyte,Sema3d
+Oligodendrocyte,Sept7
+Oligodendrocyte,Sept8
+Oligodendrocyte,Serinc5
+Oligodendrocyte,Serpind1
+Oligodendrocyte,Sgk2
+Oligodendrocyte,Sh3gl3
+Oligodendrocyte,Sirt2
+Oligodendrocyte,Slain1
+Oligodendrocyte,Slc22a23
+Oligodendrocyte,Slc25a10
+Oligodendrocyte,Slc25a1
+Oligodendrocyte,Slc25a38
+Oligodendrocyte,Slc35a2
+Oligodendrocyte,Slc44a1
+Oligodendrocyte,Slc45a3
+Oligodendrocyte,Slc48a1
+Oligodendrocyte,Slc5a11
+Oligodendrocyte,Slco3a1
+Oligodendrocyte,Slpi
+Oligodendrocyte,Smad7
+Oligodendrocyte,Smco3
+Oligodendrocyte,Snx15
+Oligodendrocyte,Specc1
+Oligodendrocyte,Speer7-ps1
+Oligodendrocyte,Spg20
+Oligodendrocyte,Sptlc1
+Oligodendrocyte,Srd5a1
+Oligodendrocyte,Srpk3
+Oligodendrocyte,St18
+Oligodendrocyte,Stmn4
+Oligodendrocyte,Strn
+Oligodendrocyte,Stxbp3b
+Oligodendrocyte,Suv420h2
+Oligodendrocyte,Taf13
+Oligodendrocyte,Taldo1
+Oligodendrocyte,Tceanc
+Oligodendrocyte,Tesk2
+Oligodendrocyte,Tfeb
+Oligodendrocyte,Thbs3
+Oligodendrocyte,Tjap1
+Oligodendrocyte,Tll2
+Oligodendrocyte,Tm7sf3
+Oligodendrocyte,Tmcc2
+Oligodendrocyte,Tmcc3
+Oligodendrocyte,Tmeff1
+Oligodendrocyte,Tmeff2
+Oligodendrocyte,Tmem117
+Oligodendrocyte,Tmem125
+Oligodendrocyte,Tmem141
+Oligodendrocyte,Tmem151a
+Oligodendrocyte,Tmem159
+Oligodendrocyte,Tmem189
+Oligodendrocyte,Tmem254b_loc1
+Oligodendrocyte,Tmem254b_loc2
+Oligodendrocyte,Tmem254b_loc3
+Oligodendrocyte,Tmem81
+Oligodendrocyte,Tmem88b
+Oligodendrocyte,Tmprss5
+Oligodendrocyte,Tnfaip6
+Oligodendrocyte,Tnni1
+Oligodendrocyte,Tpd52
+Oligodendrocyte,Tprn
+Oligodendrocyte,Tradd
+Oligodendrocyte,Trf
+Oligodendrocyte,Trim13
+Oligodendrocyte,Trim36
+Oligodendrocyte,Trim59
+Oligodendrocyte,Tspan2
+Oligodendrocyte,Tubb4a
+Oligodendrocyte,Tulp4
+Oligodendrocyte,Txndc16
+Oligodendrocyte,Txndc17
+Oligodendrocyte,Ugt8a
+Oligodendrocyte,Usp6nl
+Oligodendrocyte,Vangl2
+Oligodendrocyte,Vmp1
+Oligodendrocyte,Wfdc18
+Oligodendrocyte,Wfikkn2
+Oligodendrocyte,Wipi1
+Oligodendrocyte,Wls
+Oligodendrocyte,Wnk1
+Oligodendrocyte,Wnt3
+Oligodendrocyte,Wrap53
+Oligodendrocyte,Yif1a
+Oligodendrocyte,Ypel2
+Oligodendrocyte,Ywhaq
+Oligodendrocyte,Zdhhc12
+Oligodendrocyte,Zdhhc20
+Oligodendrocyte,Zdhhc9
+Oligodendrocyte,Zfhx2os
+Oligodendrocyte,Zfp14
+Oligodendrocyte,Zfp276
+Oligodendrocyte,Zfp488
+Oligodendrocyte,Zfp740
+Oligodendrocyte,Zscan29
+Microglia,0610031J06Rik
+Microglia,1700017B05Rik
+Microglia,1810011H11Rik
+Microglia,4933406I18Rik
+Microglia,5430427O19Rik
+Microglia,6230400D17Rik
+Microglia,AB124611
+Microglia,Abca9
+Microglia,Abcb1b
+Microglia,Abcc3
+Microglia,Abhd15
+Microglia,Acp5
+Microglia,Ada
+Microglia,Adam33
+Microglia,Adcy7
+Microglia,Adrb2
+Microglia,AF251705
+Microglia,Ago4
+Microglia,Ahr
+Microglia,AI607873
+Microglia,AI662270
+Microglia,Aif1
+Microglia,Aim2
+Microglia,Alox5ap
+Microglia,Alox5
+Microglia,Amdhd2
+Microglia,Angptl7
+Microglia,Ap1b1
+Microglia,Apaf1
+Microglia,Aph1c
+Microglia,Apobec1
+Microglia,Arhgap11a
+Microglia,Arhgap17
+Microglia,Arhgap19
+Microglia,Arhgap30
+Microglia,Arhgap4
+Microglia,Arrb2
+Microglia,Arsb
+Microglia,Bcl2a1b
+Microglia,Bcl2a1c
+Microglia,Bid
+Microglia,Bin2
+Microglia,Blnk
+Microglia,Blvra
+Microglia,Blvrb
+Microglia,Bmp2
+Microglia,Btk
+Microglia,C1qa
+Microglia,C1qb
+Microglia,C1qc
+Microglia,C3ar1
+Microglia,C5ar1
+Microglia,Camk1
+Microglia,Capn3
+Microglia,Casp1
+Microglia,Casp4
+Microglia,Cass4
+Microglia,Cbr2
+Microglia,Ccdc50
+Microglia,Ccdc88b
+Microglia,Ccdc9
+Microglia,Ccl12
+Microglia,Ccl24
+Microglia,Ccl2
+Microglia,Ccl3
+Microglia,Ccl4
+Microglia,Ccl6
+Microglia,Ccl7
+Microglia,Ccr1
+Microglia,Ccr5
+Microglia,Cd14
+Microglia,Cd163
+Microglia,Cd200r1
+Microglia,Cd209f
+Microglia,Cd209g
+Microglia,Cd300a
+Microglia,Cd33
+Microglia,Cd36
+Microglia,Cd37
+Microglia,Cd48
+Microglia,Cd53
+Microglia,Cd68
+Microglia,Cd83
+Microglia,Cd84
+Microglia,Cd86
+Microglia,Cebpa
+Microglia,Cenpf
+Microglia,Cep110
+Microglia,Cfhr2
+Microglia,Cfp
+Microglia,Ch25h
+Microglia,Clcn5
+Microglia,Clec10a
+Microglia,Clec4a2
+Microglia,Clec4a3
+Microglia,Clec4n
+Microglia,Clec5a
+Microglia,Cmah
+Microglia,Cotl1
+Microglia,Cradd
+Microglia,Creg1
+Microglia,Cryl1
+Microglia,Csf1r
+Microglia,Csf3r
+Microglia,Csk
+Microglia,Ctsb
+Microglia,Ctsc
+Microglia,Ctsd
+Microglia,Ctss
+Microglia,Ctsz
+Microglia,Cx3cr1
+Microglia,Cxcl10
+Microglia,Cxcl16
+Microglia,Cxcl1
+Microglia,Cxcl2
+Microglia,Cybb
+Microglia,Cysltr1
+Microglia,Cyth4
+Microglia,D830030K20Rik_loc2
+Microglia,Dab2
+Microglia,Dazap2
+Microglia,Dclre1c
+Microglia,Dennd1b
+Microglia,Dennd1c
+Microglia,Dhdh
+Microglia,Dnase2a
+Microglia,Dock2
+Microglia,Dock8
+Microglia,Dram1
+Microglia,Dse
+Microglia,Dsn1
+Microglia,Dtx2
+Microglia,E230029C05Rik
+Microglia,Ebi3
+Microglia,Egr2
+Microglia,Ehd1
+Microglia,Ehd4
+Microglia,Elmsan1
+Microglia,Eml3
+Microglia,Emr1
+Microglia,Epsti1
+Microglia,Ethe1
+Microglia,Evi2b
+Microglia,F13a1
+Microglia,Fau
+Microglia,Fbxw4
+Microglia,Fcer1g
+Microglia,Fcgr1
+Microglia,Fcgr2b
+Microglia,Fcgr3
+Microglia,Fcna
+Microglia,Fcrls
+Microglia,Fermt3
+Microglia,Fgd2
+Microglia,Fmo5
+Microglia,Fndc3a
+Microglia,Fnip2
+Microglia,Folr2
+Microglia,Frrs1
+Microglia,Ftl1
+Microglia,G530011O06Rik
+Microglia,Galnt12
+Microglia,Gdf15
+Microglia,Gdpd3
+Microglia,Gins2
+Microglia,Gm10336
+Microglia,Gm13139_loc1
+Microglia,Gm13139_loc2
+Microglia,Gm13476
+Microglia,Gm14548
+Microglia,Gm20605
+Microglia,Gm2382
+Microglia,Gm5086
+Microglia,Gm6377
+Microglia,Gm8615
+Microglia,Gmfg
+Microglia,Gnpda1
+Microglia,Gns
+Microglia,Gp49a
+Microglia,Gpr160
+Microglia,Gpr183
+Microglia,Gpr34
+Microglia,Gpr65
+Microglia,Gpx3
+Microglia,Grn
+Microglia,H2-Aa
+Microglia,H2-Q10
+Microglia,H2-Q2
+Microglia,Havcr2
+Microglia,Hck
+Microglia,Hcls1
+Microglia,Hexa
+Microglia,Hexb
+Microglia,Hist1h2ae
+Microglia,Hist1h3i
+Microglia,Hist2h2bb
+Microglia,Hk2
+Microglia,Hk3
+Microglia,Hmha1
+Microglia,Hmox1
+Microglia,Hpgd
+Microglia,Hpgds
+Microglia,Hps3
+Microglia,Hvcn1
+Microglia,Ier5
+Microglia,Ifi202b
+Microglia,Ifi203
+Microglia,Ifi204
+Microglia,Ifi27l2a
+Microglia,Igsf6
+Microglia,Ikzf1
+Microglia,Il10ra
+Microglia,Il16
+Microglia,Il18bp
+Microglia,Il1a
+Microglia,Il1b
+Microglia,Il4ra
+Microglia,Inpp5d
+Microglia,Irak4
+Microglia,Irf5
+Microglia,Irf8
+Microglia,Itgam
+Microglia,Itgb2
+Microglia,Itsn1
+Microglia,Jmjd1c
+Microglia,Kdm2b
+Microglia,Khk
+Microglia,Lair1
+Microglia,Laptm5
+Microglia,Lat2
+Microglia,Lcp1
+Microglia,Lcp2
+Microglia,Leprel1
+Microglia,Lgmn
+Microglia,Lilra5
+Microglia,Lilrb4
+Microglia,Lpxn
+Microglia,Lrmp
+Microglia,Lrp6
+Microglia,Lst1
+Microglia,Ly86
+Microglia,Ly96
+Microglia,Lyl1
+Microglia,Lyve1
+Microglia,Lyz1
+Microglia,Lyz2
+Microglia,Maf
+Microglia,Maml1
+Microglia,Man1c1
+Microglia,Man2b1
+Microglia,Map3k14
+Microglia,Mapkapk2
+Microglia,Marcks
+Microglia,Masp2
+Microglia,Mb21d1
+Microglia,Mbnl1
+Microglia,Mcfd2
+Microglia,Mettl20
+Microglia,Mfsd1
+Microglia,Mgl2
+Microglia,Milr1
+Microglia,Mir1903
+Microglia,Mir692-1
+Microglia,Mki67
+Microglia,Mknk1
+Microglia,Mlxipl
+Microglia,Mnda
+Microglia,Mocos
+Microglia,Mpeg1
+Microglia,Mpp1
+Microglia,Mrc1
+Microglia,Ms4a6b
+Microglia,Ms4a6c
+Microglia,Ms4a6d
+Microglia,Ms4a7
+Microglia,Msr1
+Microglia,Mtr
+Microglia,Myo1f
+Microglia,Nagpa
+Microglia,Ncf1
+Microglia,Ncf2
+Microglia,Ncf4
+Microglia,Nckap1l
+Microglia,Ncoa3
+Microglia,Ndst2
+Microglia,Nfam1
+Microglia,Nfatc2
+Microglia,Nfkbid
+Microglia,Nfxl1
+Microglia,Nhlrc3
+Microglia,Ninj1
+Microglia,Nlrp3
+Microglia,Nnt
+Microglia,Npl
+Microglia,Nrros
+Microglia,Nuak2
+Microglia,Orai1
+Microglia,Osbpl11
+Microglia,P2rx4
+Microglia,P2rx7
+Microglia,P2ry12
+Microglia,P2ry13
+Microglia,P2ry6
+Microglia,Pacsin2
+Microglia,Paox
+Microglia,Parvg
+Microglia,Pde3b
+Microglia,Pf4
+Microglia,Phf15
+Microglia,Pik3cd
+Microglia,Pik3cg
+Microglia,Pik3r5
+Microglia,Pira4
+Microglia,Pirb
+Microglia,Pisd-ps3
+Microglia,Pkn1
+Microglia,Pla2g15
+Microglia,Plagl2
+Microglia,Plau
+Microglia,Plcg2
+Microglia,Pld4
+Microglia,Plek
+Microglia,Pmf1
+Microglia,Pnrc1
+Microglia,Pola1
+Microglia,Ppcdc
+Microglia,Ptafr
+Microglia,Ptplad2
+Microglia,Ptpn18
+Microglia,Ptpn6
+Microglia,Pxn
+Microglia,Pycard
+Microglia,Pyroxd2
+Microglia,Rab32
+Microglia,Rab39
+Microglia,Rab3il1
+Microglia,Rab43
+Microglia,Rab8b
+Microglia,Rac2
+Microglia,Rad51ap1
+Microglia,Rbpj
+Microglia,Rcan1
+Microglia,Rel
+Microglia,Renbp
+Microglia,Rgs1
+Microglia,Rgs2
+Microglia,Rhoh
+Microglia,Rilpl2
+Microglia,Rnasel
+Microglia,Rnf19b
+Microglia,Rnu12
+Microglia,Rp2h
+Microglia,Rpl35a
+Microglia,Rplp1
+Microglia,Rrp1b
+Microglia,Sash3
+Microglia,Scel
+Microglia,Scpep1
+Microglia,Selplg
+Microglia,Serpinb8
+Microglia,Sgpl1
+Microglia,Sgsh
+Microglia,Sh2b2
+Microglia,Sh2b3
+Microglia,Sh3bp1
+Microglia,Shcbp1
+Microglia,Siglech
+Microglia,Skap2
+Microglia,Sla
+Microglia,Slamf9
+Microglia,Slc15a3
+Microglia,Slc16a6
+Microglia,Slc2a5
+Microglia,Slc37a2
+Microglia,Slc38a6
+Microglia,Slc7a7
+Microglia,Slc9a9
+Microglia,Slfn2
+Microglia,Snord17
+Microglia,Snx2
+Microglia,Snx5
+Microglia,Sp110
+Microglia,Spi1
+Microglia,Spidr
+Microglia,Srgap2
+Microglia,Ssh2
+Microglia,Stab1
+Microglia,Stag3
+Microglia,Stk3
+Microglia,Susd1
+Microglia,Susd3
+Microglia,Syk
+Microglia,Tagap1
+Microglia,Tagap
+Microglia,Tbxas1
+Microglia,Tfec
+Microglia,Tgfbi
+Microglia,Tgfbr1
+Microglia,Tln2
+Microglia,Tlr13
+Microglia,Tlr2
+Microglia,Tlr7
+Microglia,Tmco4
+Microglia,Tmem106a
+Microglia,Tmem119
+Microglia,Tmem86a
+Microglia,Tmem8
+Microglia,Tnfaip8l2
+Microglia,Tnf
+Microglia,Tnfrsf11a
+Microglia,Tnfrsf1b
+Microglia,Tnfsf9
+Microglia,Trem2
+Microglia,Trim21
+Microglia,Tslp
+Microglia,Tubb6
+Microglia,Tuft1
+Microglia,Twf1
+Microglia,Tyms
+Microglia,Tyrobp
+Microglia,Uap1l1
+Microglia,Ugt1a2
+Microglia,Ugt1a7c
+Microglia,Unc93b1
+Microglia,Vav1
+Microglia,Vcan
+Microglia,Wdfy4
+Microglia,Wfdc17
+Microglia,Wsb1
+Microglia,Wwp1
+Microglia,Xlr
+Microglia,Zc3h12c
+Microglia,Zfp110
+Microglia,Zfp568
+Microglia,Zfp710
+Microglia,Zswim6
+CA1 Pyramidal,0610010B08Rik_loc4
+CA1 Pyramidal,1500015A07Rik
+CA1 Pyramidal,2610018G03Rik
+CA1 Pyramidal,4831440E17Rik
+CA1 Pyramidal,4931440F15Rik
+CA1 Pyramidal,4933426M11Rik
+CA1 Pyramidal,5730577I03Rik
+CA1 Pyramidal,9930014A18Rik
+CA1 Pyramidal,A230077H06Rik
+CA1 Pyramidal,A930024E05Rik
+CA1 Pyramidal,Abhd17c
+CA1 Pyramidal,Abi1
+CA1 Pyramidal,Acot4
+CA1 Pyramidal,Actl6b
+CA1 Pyramidal,Actr2
+CA1 Pyramidal,Actr3
+CA1 Pyramidal,Adamts7
+CA1 Pyramidal,Adck3
+CA1 Pyramidal,Add2
+CA1 Pyramidal,Adra1d
+CA1 Pyramidal,Adra2c
+CA1 Pyramidal,AF357355
+CA1 Pyramidal,Aff3
+CA1 Pyramidal,Agap3
+CA1 Pyramidal,Agfg2
+CA1 Pyramidal,Ahi1
+CA1 Pyramidal,AI115009
+CA1 Pyramidal,Alox12b
+CA1 Pyramidal,Aloxe3
+CA1 Pyramidal,Amz1
+CA1 Pyramidal,Ano5
+CA1 Pyramidal,Ap1s1
+CA1 Pyramidal,Ap2b1
+CA1 Pyramidal,Ap3b2
+CA1 Pyramidal,Ar
+CA1 Pyramidal,Arf1
+CA1 Pyramidal,Arf5
+CA1 Pyramidal,Arhgap39
+CA1 Pyramidal,Arhgef28
+CA1 Pyramidal,Arhgef9
+CA1 Pyramidal,Arl15
+CA1 Pyramidal,Arpc2
+CA1 Pyramidal,Arpc5
+CA1 Pyramidal,Arsj
+CA1 Pyramidal,Asap2
+CA1 Pyramidal,Asphd2
+CA1 Pyramidal,B3gat1
+CA1 Pyramidal,B4galnt1
+CA1 Pyramidal,Bag4
+CA1 Pyramidal,BC048507
+CA1 Pyramidal,Bcr
+CA1 Pyramidal,Bhlhe22
+CA1 Pyramidal,Brd9
+CA1 Pyramidal,Bves
+CA1 Pyramidal,C030023E24Rik
+CA1 Pyramidal,C230091D08Rik
+CA1 Pyramidal,C2cd2l
+CA1 Pyramidal,C2cd4b
+CA1 Pyramidal,Cacna1e
+CA1 Pyramidal,Cacng8
+CA1 Pyramidal,Cadm2
+CA1 Pyramidal,Camsap3
+CA1 Pyramidal,Camta2
+CA1 Pyramidal,Casd1
+CA1 Pyramidal,Ccdc109b
+CA1 Pyramidal,Ccdc112
+CA1 Pyramidal,Ccdc177
+CA1 Pyramidal,Ccdc32
+CA1 Pyramidal,Ccdc85b
+CA1 Pyramidal,Ccdc88c
+CA1 Pyramidal,Ccrn4l
+CA1 Pyramidal,Cdc25b
+CA1 Pyramidal,Cdc40
+CA1 Pyramidal,Cdk17
+CA1 Pyramidal,Cds1
+CA1 Pyramidal,Celf1
+CA1 Pyramidal,Celsr2
+CA1 Pyramidal,Chd3
+CA1 Pyramidal,Chrd
+CA1 Pyramidal,Chrm5
+CA1 Pyramidal,Chst15
+CA1 Pyramidal,Chst1
+CA1 Pyramidal,Clcnka
+CA1 Pyramidal,Cpne6
+CA1 Pyramidal,Cpsf2
+CA1 Pyramidal,Cpt1c
+CA1 Pyramidal,Crym
+CA1 Pyramidal,Csmd1
+CA1 Pyramidal,Cstf3
+CA1 Pyramidal,Ctnnd2
+CA1 Pyramidal,Cys1
+CA1 Pyramidal,D430019H16Rik
+CA1 Pyramidal,D630045J12Rik
+CA1 Pyramidal,D8Ertd82e
+CA1 Pyramidal,Dagla
+CA1 Pyramidal,Dancr
+CA1 Pyramidal,Dapk1
+CA1 Pyramidal,Dcakd
+CA1 Pyramidal,Dcbld1
+CA1 Pyramidal,Dclk2
+CA1 Pyramidal,Dcn
+CA1 Pyramidal,Depdc7
+CA1 Pyramidal,Diap3
+CA1 Pyramidal,Dio3
+CA1 Pyramidal,Dlgap4
+CA1 Pyramidal,Doc2b
+CA1 Pyramidal,Dock4
+CA1 Pyramidal,Dpf1
+CA1 Pyramidal,Dpyd
+CA1 Pyramidal,Drd5
+CA1 Pyramidal,Dscaml1
+CA1 Pyramidal,Dtnbp1
+CA1 Pyramidal,Dtwd1
+CA1 Pyramidal,Dusp4
+CA1 Pyramidal,E030013I19Rik
+CA1 Pyramidal,E130008D07Rik
+CA1 Pyramidal,Efcab6
+CA1 Pyramidal,Efr3a
+CA1 Pyramidal,Eid1
+CA1 Pyramidal,Elk1
+CA1 Pyramidal,Epha6
+CA1 Pyramidal,Ephb2
+CA1 Pyramidal,Etv1
+CA1 Pyramidal,Evc2
+CA1 Pyramidal,Faah
+CA1 Pyramidal,Fam103a1
+CA1 Pyramidal,Fam132a
+CA1 Pyramidal,Fam210b
+CA1 Pyramidal,Fam60a
+CA1 Pyramidal,Fam65a
+CA1 Pyramidal,Fat4
+CA1 Pyramidal,Fbn1
+CA1 Pyramidal,Fbn2
+CA1 Pyramidal,Fgf10
+CA1 Pyramidal,Figf
+CA1 Pyramidal,Fkbp1a
+CA1 Pyramidal,Fkbp5
+CA1 Pyramidal,Fndc4
+CA1 Pyramidal,Foxo6
+CA1 Pyramidal,Fras1
+CA1 Pyramidal,Ftx
+CA1 Pyramidal,Gabbr1
+CA1 Pyramidal,Gabra5
+CA1 Pyramidal,Gal3st3
+CA1 Pyramidal,Galnt16
+CA1 Pyramidal,Galnt3
+CA1 Pyramidal,Gapdh
+CA1 Pyramidal,Garem
+CA1 Pyramidal,Gm10649
+CA1 Pyramidal,Gm10664
+CA1 Pyramidal,Gm10754
+CA1 Pyramidal,Gm12070
+CA1 Pyramidal,Gm13315
+CA1 Pyramidal,Gm15706
+CA1 Pyramidal,Gm1653
+CA1 Pyramidal,Gm20754
+CA1 Pyramidal,Gm21949
+CA1 Pyramidal,Gm3086
+CA1 Pyramidal,Gm3696
+CA1 Pyramidal,Gm4926
+CA1 Pyramidal,Gm5512_loc2
+CA1 Pyramidal,Gm996
+CA1 Pyramidal,Gnaq
+CA1 Pyramidal,Gpd2
+CA1 Pyramidal,Gpr151
+CA1 Pyramidal,Gpr161
+CA1 Pyramidal,Gpr25
+CA1 Pyramidal,Gpr39
+CA1 Pyramidal,Gpr45
+CA1 Pyramidal,Gpr63
+CA1 Pyramidal,Gpr64
+CA1 Pyramidal,Grasp
+CA1 Pyramidal,Grem1
+CA1 Pyramidal,Grid1
+CA1 Pyramidal,Grin2a
+CA1 Pyramidal,Grina
+CA1 Pyramidal,Gse1
+CA1 Pyramidal,Gstm6
+CA1 Pyramidal,H2-DMa
+CA1 Pyramidal,Has3
+CA1 Pyramidal,Hectd2
+CA1 Pyramidal,Hs6st3
+CA1 Pyramidal,Htr4
+CA1 Pyramidal,Htr5b
+CA1 Pyramidal,Hunk
+CA1 Pyramidal,Ido2
+CA1 Pyramidal,Ifngr2
+CA1 Pyramidal,Igbp1b
+CA1 Pyramidal,Insl5
+CA1 Pyramidal,Irak1bp1
+CA1 Pyramidal,Itgbl1
+CA1 Pyramidal,Jph1
+CA1 Pyramidal,Jph4
+CA1 Pyramidal,Kbtbd11
+CA1 Pyramidal,Kcna4
+CA1 Pyramidal,Kcnb2
+CA1 Pyramidal,Kcng2
+CA1 Pyramidal,Kcnq3
+CA1 Pyramidal,Klf16
+CA1 Pyramidal,Klhl22
+CA1 Pyramidal,Klhl3
+CA1 Pyramidal,Klk7
+CA1 Pyramidal,Krt2
+CA1 Pyramidal,Krt79
+CA1 Pyramidal,Ksr1
+CA1 Pyramidal,Lct
+CA1 Pyramidal,Lenep
+CA1 Pyramidal,Lmo1
+CA1 Pyramidal,Lmo7
+CA1 Pyramidal,Lor
+CA1 Pyramidal,Lphn3
+CA1 Pyramidal,Lrfn2
+CA1 Pyramidal,Lrrc73
+CA1 Pyramidal,Lrrc7
+CA1 Pyramidal,Lrrn2
+CA1 Pyramidal,Lrrn4
+CA1 Pyramidal,Lypd1
+CA1 Pyramidal,Lzts3
+CA1 Pyramidal,Mageb16
+CA1 Pyramidal,Mageb16-ps1
+CA1 Pyramidal,Magee2
+CA1 Pyramidal,Map4
+CA1 Pyramidal,March3
+CA1 Pyramidal,Mast3
+CA1 Pyramidal,Matk
+CA1 Pyramidal,Matn2
+CA1 Pyramidal,Mc4r
+CA1 Pyramidal,Mchr1
+CA1 Pyramidal,Meg3
+CA1 Pyramidal,Megf11
+CA1 Pyramidal,Megf9
+CA1 Pyramidal,Mei4
+CA1 Pyramidal,Miat
+CA1 Pyramidal,Mical2
+CA1 Pyramidal,Mir22hg
+CA1 Pyramidal,Mkl1
+CA1 Pyramidal,Mpp6
+CA1 Pyramidal,Msra
+CA1 Pyramidal,Mst1r
+CA1 Pyramidal,Mtus2
+CA1 Pyramidal,Myh7
+CA1 Pyramidal,Naa38
+CA1 Pyramidal,Napg
+CA1 Pyramidal,Nat14
+CA1 Pyramidal,Nbea
+CA1 Pyramidal,Nckap1
+CA1 Pyramidal,Ncoa7
+CA1 Pyramidal,Ndst3
+CA1 Pyramidal,Ndst4
+CA1 Pyramidal,Nedd4l
+CA1 Pyramidal,Nlgn1
+CA1 Pyramidal,Nos1ap
+CA1 Pyramidal,Nos1
+CA1 Pyramidal,Npas2
+CA1 Pyramidal,Npbwr1
+CA1 Pyramidal,Npdc1
+CA1 Pyramidal,Nphp4
+CA1 Pyramidal,Npr3
+CA1 Pyramidal,Nr4a2
+CA1 Pyramidal,Nrip1
+CA1 Pyramidal,Nsun7
+CA1 Pyramidal,Ntn3
+CA1 Pyramidal,Ntng1
+CA1 Pyramidal,Ogfod1
+CA1 Pyramidal,Onecut2
+CA1 Pyramidal,Orai2
+CA1 Pyramidal,Osbpl6
+CA1 Pyramidal,Otub2
+CA1 Pyramidal,Palm3
+CA1 Pyramidal,Pcdh19
+CA1 Pyramidal,Pcdhb7
+CA1 Pyramidal,Pck2
+CA1 Pyramidal,Pde10a
+CA1 Pyramidal,Pfn2
+CA1 Pyramidal,Pianp
+CA1 Pyramidal,Pip4k2c
+CA1 Pyramidal,Pip5k1a
+CA1 Pyramidal,Pkp2
+CA1 Pyramidal,Pla2g4b
+CA1 Pyramidal,Plch2
+CA1 Pyramidal,Plcz1
+CA1 Pyramidal,Plxna1
+CA1 Pyramidal,Plxnc1
+CA1 Pyramidal,Pnmal1
+CA1 Pyramidal,Pole4
+CA1 Pyramidal,Pou3f1
+CA1 Pyramidal,Ppapdc2
+CA1 Pyramidal,Ppfia2
+CA1 Pyramidal,Ppp1r14c
+CA1 Pyramidal,Ppp4r4
+CA1 Pyramidal,Prickle2
+CA1 Pyramidal,Prkab2
+CA1 Pyramidal,Prkag2
+CA1 Pyramidal,Prnp
+CA1 Pyramidal,Psd3
+CA1 Pyramidal,Psrc1
+CA1 Pyramidal,Ptprs
+CA1 Pyramidal,Ptpru
+CA1 Pyramidal,Pwwp2b
+CA1 Pyramidal,Pxdn
+CA1 Pyramidal,Pygo1
+CA1 Pyramidal,Rab3d
+CA1 Pyramidal,Rab3ip
+CA1 Pyramidal,Rae1
+CA1 Pyramidal,Rap2b
+CA1 Pyramidal,Rapgefl1
+CA1 Pyramidal,Rasal1
+CA1 Pyramidal,Rbbp7
+CA1 Pyramidal,Rbfox2
+CA1 Pyramidal,Rbm43
+CA1 Pyramidal,Rem2
+CA1 Pyramidal,Retn
+CA1 Pyramidal,Rgs11
+CA1 Pyramidal,Rnf150
+CA1 Pyramidal,Rnf165
+CA1 Pyramidal,Rock2
+CA1 Pyramidal,Rogdi
+CA1 Pyramidal,Rps6kl1
+CA1 Pyramidal,Rpusd1
+CA1 Pyramidal,Rspo2
+CA1 Pyramidal,Rtf1
+CA1 Pyramidal,Runx1t1
+CA1 Pyramidal,Runx2
+CA1 Pyramidal,Rxrg
+CA1 Pyramidal,Samd5
+CA1 Pyramidal,Sema6b
+CA1 Pyramidal,Sept9
+CA1 Pyramidal,Serpina3c
+CA1 Pyramidal,Serpina3g
+CA1 Pyramidal,Serpina3h
+CA1 Pyramidal,Sertm1
+CA1 Pyramidal,Sez6l
+CA1 Pyramidal,Sh3bp5
+CA1 Pyramidal,Sh3rf1
+CA1 Pyramidal,Shank2
+CA1 Pyramidal,Sipa1l3
+CA1 Pyramidal,Slc16a14
+CA1 Pyramidal,Slc26a4
+CA1 Pyramidal,Slc4a7
+CA1 Pyramidal,Slc9a2
+CA1 Pyramidal,Slc9a4
+CA1 Pyramidal,Slit1
+CA1 Pyramidal,Slitrk3
+CA1 Pyramidal,Slitrk5
+CA1 Pyramidal,Snhg10
+CA1 Pyramidal,Sorl1
+CA1 Pyramidal,Sowaha
+CA1 Pyramidal,Speg
+CA1 Pyramidal,Spin1
+CA1 Pyramidal,Spink8
+CA1 Pyramidal,Srgap3
+CA1 Pyramidal,Sstr3
+CA1 Pyramidal,Sstr4
+CA1 Pyramidal,Ssx2ip
+CA1 Pyramidal,St7
+CA1 Pyramidal,St8sia3
+CA1 Pyramidal,Stim2
+CA1 Pyramidal,Stxbp5
+CA1 Pyramidal,Sub1
+CA1 Pyramidal,Sult5a1
+CA1 Pyramidal,Syne1_loc1
+CA1 Pyramidal,Syngap1
+CA1 Pyramidal,Syt17
+CA1 Pyramidal,Tacr3
+CA1 Pyramidal,Tanc1
+CA1 Pyramidal,Tbata
+CA1 Pyramidal,Tceal3
+CA1 Pyramidal,Tcf20
+CA1 Pyramidal,Tenm4
+CA1 Pyramidal,Thrb
+CA1 Pyramidal,Thsd7b
+CA1 Pyramidal,Tmem150c
+CA1 Pyramidal,Tmem200a
+CA1 Pyramidal,Tmem74
+CA1 Pyramidal,Tmem8b
+CA1 Pyramidal,Tnfrsf25
+CA1 Pyramidal,Tnr
+CA1 Pyramidal,Traip
+CA1 Pyramidal,Trank1
+CA1 Pyramidal,Trio
+CA1 Pyramidal,Ttc19
+CA1 Pyramidal,Tubb2a-ps2
+CA1 Pyramidal,Tub
+CA1 Pyramidal,Uhrf1bp1l
+CA1 Pyramidal,Unc13b
+CA1 Pyramidal,Unc79
+CA1 Pyramidal,Usp27x
+CA1 Pyramidal,Usp46
+CA1 Pyramidal,Wasl
+CA1 Pyramidal,Wbscr17
+CA1 Pyramidal,Wfs1
+CA1 Pyramidal,Wipf3
+CA1 Pyramidal,Wscd2
+CA1 Pyramidal,Xkr4
+CA1 Pyramidal,Ydjc
+CA1 Pyramidal,Ypel1
+CA1 Pyramidal,Ywhaz
+CA1 Pyramidal,Zc3h12b
+CA1 Pyramidal,Zcchc16
+CA1 Pyramidal,Zfp189
+CA1 Pyramidal,Zfp251
+CA1 Pyramidal,Zfp462
+CA1 Pyramidal,Zfp667
+CA1 Pyramidal,Zfp831
+CA1 Pyramidal,Zfp92
+CA1 Pyramidal,Zranb3
+CA1 Pyramidal,Zscan18
+CA1 Pyramidal,Zswim5
+CA1 Pyramidal,Zyg11b
+Interneuron,1700023F06Rik
+Interneuron,2310030G06Rik
+Interneuron,2310042E22Rik
+Interneuron,2610002M06Rik
+Interneuron,2610203C20Rik
+Interneuron,2900056M20Rik
+Interneuron,4930563E22Rik
+Interneuron,5330434G04Rik
+Interneuron,6330409D20Rik
+Interneuron,6430573F11Rik
+Interneuron,A330076H08Rik
+Interneuron,A330102I10Rik
+Interneuron,A430107P09Rik
+Interneuron,A530058N18Rik
+Interneuron,A830082N09Rik
+Interneuron,Ache
+Interneuron,Acot7
+Interneuron,Adamts17
+Interneuron,Adar
+Interneuron,Afap1
+Interneuron,Agtpbp1
+Interneuron,AI504432
+Interneuron,AI854703
+Interneuron,Akap7
+Interneuron,Alg2
+Interneuron,Alk
+Interneuron,Ank1
+Interneuron,Ankrd34b
+Interneuron,Ankrd55
+Interneuron,Ankrd6
+Interneuron,Apba1
+Interneuron,Araf
+Interneuron,Arhgap24
+Interneuron,Armcx2
+Interneuron,Armcx4
+Interneuron,Arnt2
+Interneuron,Arrb1
+Interneuron,Arx
+Interneuron,Arxes1
+Interneuron,B230216G23Rik
+Interneuron,B4galt5
+Interneuron,B630019K06Rik
+Interneuron,Baiap2l2
+Interneuron,Baiap3
+Interneuron,BC005764
+Interneuron,BC030867
+Interneuron,Bcat1
+Interneuron,Bean1
+Interneuron,Blcap
+Interneuron,Bmp3
+Interneuron,Btbd11
+Interneuron,Btbd2
+Interneuron,C1ql1
+Interneuron,Cacng5
+Interneuron,Calb2
+Interneuron,Calca
+Interneuron,Camk2d
+Interneuron,Ccnh
+Interneuron,Cdh7
+Interneuron,Cds2
+Interneuron,Celf6
+Interneuron,Cib2
+Interneuron,Cidea
+Interneuron,Cilp2
+Interneuron,Clnk
+Interneuron,Clrn1
+Interneuron,Cnr1
+Interneuron,Cntn5
+Interneuron,Cntnap3
+Interneuron,Col19a1
+Interneuron,Col25a1
+Interneuron,Col26a1
+Interneuron,Coprs
+Interneuron,Cox7b
+Interneuron,Crabp1
+Interneuron,Crhbp
+Interneuron,Cul7
+Interneuron,Cxadr
+Interneuron,Cxx1c
+Interneuron,Cygb
+Interneuron,Dcaf7
+Interneuron,Diras1
+Interneuron,Dlat
+Interneuron,Dleu7
+Interneuron,Dlx1
+Interneuron,Dlx1os
+Interneuron,Dlx2
+Interneuron,Dlx6
+Interneuron,Dlx6os1
+Interneuron,Dnajc12
+Interneuron,Dnajc27
+Interneuron,Dnajc5
+Interneuron,Dnajc6
+Interneuron,Dnm3
+Interneuron,Dpysl4
+Interneuron,Dpysl5
+Interneuron,Dynll2
+Interneuron,E130309F12Rik
+Interneuron,E230016M11Rik
+Interneuron,Ece2
+Interneuron,Eepd1
+Interneuron,Egln3
+Interneuron,Eif4a2
+Interneuron,Elavl2
+Interneuron,Elfn1
+Interneuron,Elmo1
+Interneuron,Elovl4
+Interneuron,Emc9
+Interneuron,Eme2
+Interneuron,Entpd3
+Interneuron,Epb4.1l1
+Interneuron,Evl
+Interneuron,Faim2
+Interneuron,Fam20c
+Interneuron,Fam216a
+Interneuron,Fam63b
+Interneuron,Fgf11
+Interneuron,Fgf18
+Interneuron,Flot1
+Interneuron,Flrt3
+Interneuron,Foxred2
+Interneuron,Frmd7
+Interneuron,Fstl5
+Interneuron,Gabarapl1
+Interneuron,Gad1
+Interneuron,Gad2
+Interneuron,Gatsl2
+Interneuron,Gfpt2
+Interneuron,Gipc2
+Interneuron,Gldn
+Interneuron,Gm10406
+Interneuron,Gm14434_loc1
+Interneuron,Gm14434_loc4
+Interneuron,Gm15612
+Interneuron,Gm1604b_loc1
+Interneuron,Gm3020_loc1
+Interneuron,Gm3494_loc2
+Interneuron,Gm5087
+Interneuron,Gm5607
+Interneuron,Gm5796
+Interneuron,Gm9962
+Interneuron,Gnas
+Interneuron,Gng4
+Interneuron,Gnl1
+Interneuron,Gnl3l
+Interneuron,Got2
+Interneuron,Gpr123
+Interneuron,Gpr176
+Interneuron,Gpr3
+Interneuron,Gria4
+Interneuron,Grik1
+Interneuron,Grik2
+Interneuron,Grip1
+Interneuron,Grpr
+Interneuron,Hdac6
+Interneuron,Hdac9
+Interneuron,Hdgfrp3
+Interneuron,Hexim2
+Interneuron,Hmga1-rs1
+Interneuron,Hmgb3
+Interneuron,Hmgcll1
+Interneuron,Hrh2
+Interneuron,Htr2c
+Interneuron,Htr3a
+Interneuron,Htr5a
+Interneuron,Iglon5
+Interneuron,Igsf10
+Interneuron,Igsf3
+Interneuron,Impact
+Interneuron,Inadl_loc1
+Interneuron,Isoc1
+Interneuron,Itga3
+Interneuron,Kcna3
+Interneuron,Kcnc1
+Interneuron,Kcnd3
+Interneuron,Kcnh2
+Interneuron,Kcnip1
+Interneuron,Kcnmb2
+Interneuron,Kctd6
+Interneuron,Kctd8
+Interneuron,Klhdc2
+Interneuron,Klhl29
+Interneuron,Klhl32
+Interneuron,Krt73
+Interneuron,Lancl3
+Interneuron,Ldoc1
+Interneuron,Lhfpl3
+Interneuron,Lhfpl5
+Interneuron,Lig1
+Interneuron,Limk1
+Interneuron,Lrp12
+Interneuron,Lypd6
+Interneuron,Lysmd4
+Interneuron,Maged2
+Interneuron,Magee1
+Interneuron,Magi1
+Interneuron,Map3k9
+Interneuron,Map7d2
+Interneuron,Mapk8
+Interneuron,Mapk9
+Interneuron,March9
+Interneuron,Mcf2
+Interneuron,Mgat5b
+Interneuron,Micu3
+Interneuron,Mid2
+Interneuron,Mme
+Interneuron,Mrap2
+Interneuron,Mum1l1
+Interneuron,Myh13
+Interneuron,Myo16
+Interneuron,Myo3b
+Interneuron,Mypop
+Interneuron,Nalcn
+Interneuron,Nap1l3
+Interneuron,Nap1l5
+Interneuron,Neb
+Interneuron,Necab1
+Interneuron,Necab2
+Interneuron,Neto1
+Interneuron,Ngf
+Interneuron,Nkrf
+Interneuron,Nnmt
+Interneuron,Npas1
+Interneuron,Npy
+Interneuron,Nrip3
+Interneuron,Nrtn
+Interneuron,Nudt11
+Interneuron,Nxph1
+Interneuron,Obsl1
+Interneuron,Optn
+Interneuron,Osbpl8
+Interneuron,Oxr1
+Interneuron,Oxtr
+Interneuron,Pafah1b3
+Interneuron,Pam
+Interneuron,Panx1
+Interneuron,Pappa
+Interneuron,Parm1
+Interneuron,Pcdha6
+Interneuron,Pcdhb13
+Interneuron,Pcdhb3
+Interneuron,Pclo
+Interneuron,Pdxk
+Interneuron,Pebp1
+Interneuron,Peg13
+Interneuron,Peg3
+Interneuron,Peg3os
+Interneuron,Pip5kl1
+Interneuron,Pitpnm1
+Interneuron,Plekhb2
+Interneuron,Plekhd1
+Interneuron,Plxna3
+Interneuron,Pm20d2
+Interneuron,Pnoc
+Interneuron,Podxl2
+Interneuron,Polr2m
+Interneuron,Pomgnt2
+Interneuron,Ppif
+Interneuron,Ppm1h
+Interneuron,Ppp1r26
+Interneuron,Ppp1r2
+Interneuron,Prmt2
+Interneuron,Prrt4
+Interneuron,Ptger2
+Interneuron,Pthlh
+Interneuron,Ptpn20
+Interneuron,Ptpro
+Interneuron,Pttg1
+Interneuron,Purb
+Interneuron,Pvrl4
+Interneuron,Rab3b
+Interneuron,Rab6a
+Interneuron,Racgap1
+Interneuron,Rassf5
+Interneuron,Rbp4
+Interneuron,Reln
+Interneuron,Resp18
+Interneuron,Rhbdl1
+Interneuron,Rhov
+Interneuron,Rimklb
+Interneuron,Rnf14
+Interneuron,Rpp25
+Interneuron,Rprl3
+Interneuron,Rps6ka6
+Interneuron,Rufy3
+Interneuron,Rxfp1
+Interneuron,Rxfp3
+Interneuron,Rxra
+Interneuron,Samd10
+Interneuron,Samd14
+Interneuron,Sarm1
+Interneuron,Scn5a
+Interneuron,Scn9a
+Interneuron,Sema4g
+Interneuron,Sema6c
+Interneuron,Setd7
+Interneuron,Sfrp2
+Interneuron,Sh3rf3
+Interneuron,Shd
+Interneuron,Shh
+Interneuron,Shisa9
+Interneuron,Slc10a4
+Interneuron,Slc1a6
+Interneuron,Slc25a3
+Interneuron,Slc27a2
+Interneuron,Slc32a1
+Interneuron,Slc35d3
+Interneuron,Slc35g2
+Interneuron,Slc39a6
+Interneuron,Slc41a3
+Interneuron,Slc5a6
+Interneuron,Slc5a7
+Interneuron,Slc7a3
+Interneuron,Slc8a3
+Interneuron,Slc9a6
+Interneuron,Slc9a7
+Interneuron,Sln
+Interneuron,Snhg4
+Interneuron,Snx16
+Interneuron,Snx31
+Interneuron,Socs5
+Interneuron,Sp8
+Interneuron,Sp9
+Interneuron,Sst
+Interneuron,Steap2
+Interneuron,Stk32a
+Interneuron,Sv2a
+Interneuron,Syndig1l
+Interneuron,Synpr
+Interneuron,Tacr1
+Interneuron,Tcerg1l
+Interneuron,Tcf4
+Interneuron,Thsd7a
+Interneuron,Tmem132e
+Interneuron,Tmem53
+Interneuron,Tmem65
+Interneuron,Tmem91
+Interneuron,Tnfsf13b
+Interneuron,Tnnt1
+Interneuron,Tox2
+Interneuron,Tox3
+Interneuron,Trim62
+Interneuron,Trim67
+Interneuron,Tspyl4
+Interneuron,Ttc39a
+Interneuron,Ttc39b
+Interneuron,Ubash3b
+Interneuron,Ubfd1
+Interneuron,Ubxn2a
+Interneuron,Usp13
+Interneuron,Usp28
+Interneuron,Usp29
+Interneuron,Vash2
+Interneuron,Vstm2a
+Interneuron,Vstm5
+Interneuron,Vwc2
+Interneuron,Wdr6
+Interneuron,Wif1
+Interneuron,Xkr6
+Interneuron,Zbtb16
+Interneuron,Zfp385a
+Interneuron,Zfp385b
+Interneuron,Zfp57
+Interneuron,Zfp618
+Interneuron,Zfp941
+Endothelial,1110008L16Rik
+Endothelial,1110034G24Rik
+Endothelial,2810417H13Rik
+Endothelial,4930594C11Rik
+Endothelial,5430416O09Rik
+Endothelial,8430408G22Rik
+Endothelial,9030619P08Rik
+Endothelial,9430020K01Rik
+Endothelial,Abcb1a
+Endothelial,Abcc6
+Endothelial,Abcc9
+Endothelial,Abhd2
+Endothelial,Ablim1
+Endothelial,Acacb
+Endothelial,Acer2
+Endothelial,Acin1
+Endothelial,Ackr2
+Endothelial,Acvrl1
+Endothelial,Adam10
+Endothelial,Adamts10
+Endothelial,Adcy4
+Endothelial,Akap13
+Endothelial,Alas1
+Endothelial,Ankrd23
+Endothelial,Ankrd37
+Endothelial,Apbb2
+Endothelial,Apcdd1
+Endothelial,Aplnr
+Endothelial,Arhgap27
+Endothelial,Arhgef15
+Endothelial,Arhgef5
+Endothelial,Arl4a
+Endothelial,Asb4
+Endothelial,Atp10d
+Endothelial,Atp11c
+Endothelial,AU021092
+Endothelial,AW112010
+Endothelial,Axin2
+Endothelial,B3gnt2
+Endothelial,B4galt4
+Endothelial,Bag3
+Endothelial,BC028528
+Endothelial,Bcl6b
+Endothelial,Bsg
+Endothelial,Btbd7
+Endothelial,C130074G19Rik
+Endothelial,Car4
+Endothelial,Card10
+Endothelial,Casp7
+Endothelial,Ccdc125
+Endothelial,Ccdc141
+Endothelial,Cchcr1
+Endothelial,Ccm2l
+Endothelial,Cd2ap
+Endothelial,Cd34
+Endothelial,Cd40
+Endothelial,Cd59b
+Endothelial,Cdc42ep3
+Endothelial,Cdh5
+Endothelial,Cdkn2b
+Endothelial,Cep85l
+Endothelial,Chd5
+Endothelial,Chrnb1
+Endothelial,Cldn5
+Endothelial,Clec1a
+Endothelial,Clic5
+Endothelial,Cmtm8
+Endothelial,Cnot6l
+Endothelial,Colgalt2
+Endothelial,Cr1l
+Endothelial,Crlf2
+Endothelial,Cthrc1
+Endothelial,Ctla2a
+Endothelial,Ctnnb1
+Endothelial,Ctsw
+Endothelial,Cxcl12
+Endothelial,Cxcr4
+Endothelial,Cyyr1
+Endothelial,D830031N03Rik
+Endothelial,Dach1
+Endothelial,Dcun1d3
+Endothelial,Degs2
+Endothelial,Dennd3
+Endothelial,Disp1
+Endothelial,Dkk2
+Endothelial,Dok4
+Endothelial,Dusp11
+Endothelial,Eaf1
+Endothelial,Ece1
+Endothelial,Edn1
+Endothelial,Edn3
+Endothelial,Efr3b
+Endothelial,Egfl7
+Endothelial,Egfl8
+Endothelial,Eltd1
+Endothelial,Emcn
+Endothelial,Eng
+Endothelial,Eogt
+Endothelial,Ephb4
+Endothelial,Erap1
+Endothelial,Ets2
+Endothelial,Etv6
+Endothelial,Exoc3l
+Endothelial,Fam101b
+Endothelial,Fam114a1
+Endothelial,Fam129a
+Endothelial,Fam13a
+Endothelial,Fbln2
+Endothelial,Fbln5
+Endothelial,Fbxl7
+Endothelial,Fgd5
+Endothelial,Flnb
+Endothelial,Flt1
+Endothelial,Flt4
+Endothelial,Fn1
+Endothelial,Foxl2
+Endothelial,Foxq1
+Endothelial,Fyco1
+Endothelial,Fzd6
+Endothelial,Gabpb1
+Endothelial,Gata2
+Endothelial,Gimap4
+Endothelial,Gimap5
+Endothelial,Gimap8
+Endothelial,Gltscr1
+Endothelial,Gm12191
+Endothelial,Gm12250
+Endothelial,Gm20748
+Endothelial,Gm5069
+Endothelial,Gm5
+Endothelial,Golim4
+Endothelial,Gpcpd1
+Endothelial,Gpr116
+Endothelial,Gpr4
+Endothelial,Gpx7
+Endothelial,Grk5
+Endothelial,H2-Q4
+Endothelial,H2-T24
+Endothelial,H2-T9
+Endothelial,Hba-a2_loc1
+Endothelial,Hba-a2_loc2
+Endothelial,Hbb-bs
+Endothelial,Heg1
+Endothelial,Hilpda
+Endothelial,Hipk3
+Endothelial,Hist4h4
+Endothelial,Hmbox1
+Endothelial,Hmcn1
+Endothelial,Hmgcs2
+Endothelial,Hspa12b
+Endothelial,Icam2
+Endothelial,Ier5l
+Endothelial,Ifit1
+Endothelial,Ifnar1
+Endothelial,Igf1r
+Endothelial,Igfbp3
+Endothelial,Iigp1
+Endothelial,Il1r1
+Endothelial,Il2rg
+Endothelial,Inpp1
+Endothelial,Insr
+Endothelial,Irf9
+Endothelial,Isyna1
+Endothelial,Itm2a
+Endothelial,Itpr3
+Endothelial,Itprip
+Endothelial,Kank3
+Endothelial,Kank4
+Endothelial,Kcne3
+Endothelial,Kcnq1
+Endothelial,Kcp
+Endothelial,Kctd10
+Endothelial,Kdr
+Endothelial,Kif23
+Endothelial,Kif26a
+Endothelial,Kif5b
+Endothelial,Kitl
+Endothelial,Klf11
+Endothelial,Klf3
+Endothelial,Klhl5
+Endothelial,Lamb1
+Endothelial,Lats2
+Endothelial,Layn
+Endothelial,Lef1
+Endothelial,Lmbr1l
+Endothelial,Lnx2
+Endothelial,Lrch1
+Endothelial,Lrrc8c
+Endothelial,Ltbp4
+Endothelial,Luzp1
+Endothelial,Ly6c1
+Endothelial,Ly6c2
+Endothelial,Ly6f
+Endothelial,Ly75
+Endothelial,Macf1
+Endothelial,Man2a1
+Endothelial,Maoa
+Endothelial,Map3k3
+Endothelial,Map4k2
+Endothelial,Megf6
+Endothelial,Mfsd7c
+Endothelial,Midn
+Endothelial,Mill2
+Endothelial,Mknk2
+Endothelial,Mmrn2
+Endothelial,Mospd1
+Endothelial,Mxd4
+Endothelial,Myct1
+Endothelial,Myl12b
+Endothelial,N4bp3
+Endothelial,Nampt
+Endothelial,Nasp
+Endothelial,Nebl
+Endothelial,Nmi
+Endothelial,Nomo1
+Endothelial,Nostrin
+Endothelial,Noxo1
+Endothelial,Oasl2
+Endothelial,Pabpc1
+Endothelial,Palmd
+Endothelial,Pcdh12
+Endothelial,Pcdh1
+Endothelial,Pecam1
+Endothelial,Pelo
+Endothelial,Pggt1b
+Endothelial,Pglyrp1
+Endothelial,Pgm1
+Endothelial,Pgm5
+Endothelial,Piezo2
+Endothelial,Pik3r6
+Endothelial,Pir
+Endothelial,Pkd2
+Endothelial,Pkn3
+Endothelial,Plp2
+Endothelial,Podxl
+Endothelial,Polk
+Endothelial,Poll
+Endothelial,Ppfibp1
+Endothelial,Pqlc1
+Endothelial,Prkd2
+Endothelial,Prnd
+Endothelial,Prom1
+Endothelial,Proser2
+Endothelial,Psme2b
+Endothelial,Ptpn12
+Endothelial,Ptprb
+Endothelial,Ptprr
+Endothelial,Pvr
+Endothelial,Rai14
+Endothelial,Ramp2
+Endothelial,Rapgef4
+Endothelial,Rasip1
+Endothelial,Rbl1
+Endothelial,Reck
+Endothelial,Rgl2
+Endothelial,Rhbdl2
+Endothelial,Rims1_loc2
+Endothelial,Rnf125
+Endothelial,Robo4
+Endothelial,Rpl11
+Endothelial,Rpl23
+Endothelial,Rpl27
+Endothelial,Rpl38
+Endothelial,Rpl41
+Endothelial,Rpl9
+Endothelial,Rps18
+Endothelial,Rps19
+Endothelial,Rps26
+Endothelial,Rps6
+Endothelial,Rrp8
+Endothelial,Sbno2
+Endothelial,Scarb1
+Endothelial,Scarf1
+Endothelial,Scube2
+Endothelial,Sema7a
+Endothelial,Serpinb9
+Endothelial,Sgms1
+Endothelial,Sgpp2
+Endothelial,Sh2d3c
+Endothelial,Sh3d21
+Endothelial,Sh3glb1
+Endothelial,She
+Endothelial,Shroom1
+Endothelial,Sigirr
+Endothelial,Sipa1l2
+Endothelial,Slc16a1
+Endothelial,Slc22a8
+Endothelial,Slc25a24
+Endothelial,Slc30a1
+Endothelial,Slc35f2
+Endothelial,Slc38a5
+Endothelial,Slc3a2
+Endothelial,Slc6a20a
+Endothelial,Slc6a6
+Endothelial,Slc7a1
+Endothelial,Slc7a5
+Endothelial,Slco1a4
+Endothelial,Slco5a1
+Endothelial,Smad1
+Endothelial,Smc4
+Endothelial,Smurf2
+Endothelial,Snai2
+Endothelial,Snora75
+Endothelial,Sox17
+Endothelial,Sox18
+Endothelial,Sox4
+Endothelial,Sox7
+Endothelial,Sp1
+Endothelial,Spock2
+Endothelial,Sptbn1
+Endothelial,Srgap1
+Endothelial,St6galnac2
+Endothelial,St8sia4
+Endothelial,Stap2
+Endothelial,Stard4
+Endothelial,Stat1
+Endothelial,Stk38
+Endothelial,Stra6
+Endothelial,Stt3a
+Endothelial,Svil
+Endothelial,Tap1
+Endothelial,Tapbpl
+Endothelial,Tbc1d2
+Endothelial,Tcf3
+Endothelial,Tcf7
+Endothelial,Tdrp
+Endothelial,Tead2
+Endothelial,Tek
+Endothelial,Tes
+Endothelial,Tfrc
+Endothelial,Timeless
+Endothelial,Tjp1
+Endothelial,Tmem184b
+Endothelial,Tmem252
+Endothelial,Tmem88
+Endothelial,Tmod3
+Endothelial,Tnfrsf23
+Endothelial,Tnfsf10
+Endothelial,Tpd52l1
+Endothelial,Tpk1
+Endothelial,Tspan18
+Endothelial,Ttc32
+Endothelial,Unc45b
+Endothelial,Ushbp1
+Endothelial,Usp18
+Endothelial,Vegfc
+Endothelial,Vgll4
+Endothelial,Vsig10
+Endothelial,Vwa1
+Endothelial,Zap70
+Endothelial,Zfp69
+Endothelial,Zfp820
+Endothelial,Zic3
+S1 Pyramidal,1110008P14Rik
+S1 Pyramidal,1700007P06Rik
+S1 Pyramidal,2210408F21Rik
+S1 Pyramidal,2810408I11Rik
+S1 Pyramidal,3110047P20Rik
+S1 Pyramidal,3110079O15Rik
+S1 Pyramidal,4930412C18Rik
+S1 Pyramidal,4930429B21Rik
+S1 Pyramidal,4933409K07Rik_loc2
+S1 Pyramidal,4933409K07Rik_loc3
+S1 Pyramidal,4933409K07Rik_loc4
+S1 Pyramidal,6430584L05Rik
+S1 Pyramidal,9330179D12Rik
+S1 Pyramidal,A830009L08Rik
+S1 Pyramidal,A830010M20Rik
+S1 Pyramidal,Abi3bp
+S1 Pyramidal,Adcyap1
+S1 Pyramidal,Adrb1
+S1 Pyramidal,Agbl4
+S1 Pyramidal,Akap6
+S1 Pyramidal,Ankrd13d
+S1 Pyramidal,Apoa1
+S1 Pyramidal,Arg2
+S1 Pyramidal,Arhgap15
+S1 Pyramidal,Arhgap20
+S1 Pyramidal,Arhgap32
+S1 Pyramidal,Arl4d
+S1 Pyramidal,Arpp19
+S1 Pyramidal,Arpp21
+S1 Pyramidal,Asap1
+S1 Pyramidal,Atp1a1
+S1 Pyramidal,Atp2a2
+S1 Pyramidal,Atp2b2
+S1 Pyramidal,Atp6v1d
+S1 Pyramidal,AU023762
+S1 Pyramidal,AW495222
+S1 Pyramidal,B230216N24Rik
+S1 Pyramidal,B230217O12Rik
+S1 Pyramidal,B4galt2
+S1 Pyramidal,Bai1
+S1 Pyramidal,BC048546
+S1 Pyramidal,BC051226
+S1 Pyramidal,Bsn
+S1 Pyramidal,C030013G03Rik
+S1 Pyramidal,C2cd4c
+S1 Pyramidal,C630020P19Rik
+S1 Pyramidal,C730002L08Rik
+S1 Pyramidal,C77080
+S1 Pyramidal,Cabp1
+S1 Pyramidal,Cacna1a
+S1 Pyramidal,Cacna1i
+S1 Pyramidal,Cacnb3
+S1 Pyramidal,Cadm3
+S1 Pyramidal,Calml3
+S1 Pyramidal,Camk2n1
+S1 Pyramidal,Camkk2
+S1 Pyramidal,Car10
+S1 Pyramidal,Cckbr
+S1 Pyramidal,Ccl19_loc1
+S1 Pyramidal,Ccl19_loc2
+S1 Pyramidal,Ccl27a_loc1
+S1 Pyramidal,Ccl27a_loc2
+S1 Pyramidal,Ccl27b_loc2
+S1 Pyramidal,Cdh18
+S1 Pyramidal,Chrm4
+S1 Pyramidal,Cish
+S1 Pyramidal,Cldn26
+S1 Pyramidal,Cmpk2
+S1 Pyramidal,Cntnap5a
+S1 Pyramidal,Cobl
+S1 Pyramidal,Col5a1
+S1 Pyramidal,Col6a1
+S1 Pyramidal,Coro2a
+S1 Pyramidal,Cpa2
+S1 Pyramidal,Cpne9
+S1 Pyramidal,Crhr1
+S1 Pyramidal,Cst6
+S1 Pyramidal,Cstad
+S1 Pyramidal,Cux1
+S1 Pyramidal,Cwh43
+S1 Pyramidal,Cyp26b1
+S1 Pyramidal,D430041D05Rik
+S1 Pyramidal,Dact2
+S1 Pyramidal,Dkkl1
+S1 Pyramidal,Doc2a
+S1 Pyramidal,Dock3
+S1 Pyramidal,Dtl
+S1 Pyramidal,E130012A19Rik
+S1 Pyramidal,E130309D14Rik
+S1 Pyramidal,E2f1
+S1 Pyramidal,Emx1
+S1 Pyramidal,Epha8
+S1 Pyramidal,Erc2
+S1 Pyramidal,Evi5
+S1 Pyramidal,Exph5
+S1 Pyramidal,Fam171a2
+S1 Pyramidal,Fap
+S1 Pyramidal,Fbxl2
+S1 Pyramidal,Fhod3
+S1 Pyramidal,Fndc9
+S1 Pyramidal,Foxp2
+S1 Pyramidal,Frzb
+S1 Pyramidal,Fst
+S1 Pyramidal,Fstl4
+S1 Pyramidal,Gabbr2
+S1 Pyramidal,Galt
+S1 Pyramidal,Gdpd5
+S1 Pyramidal,Gfra2
+S1 Pyramidal,Gm10432
+S1 Pyramidal,Gm11549
+S1 Pyramidal,Gm12360
+S1 Pyramidal,Gm13298_loc1
+S1 Pyramidal,Gm13298_loc2
+S1 Pyramidal,Gm13298_loc3
+S1 Pyramidal,Gm13298_loc4
+S1 Pyramidal,Gm13306_loc4
+S1 Pyramidal,Gm13308_loc1
+S1 Pyramidal,Gm13308_loc4
+S1 Pyramidal,Gm13446
+S1 Pyramidal,Gm1976
+S1 Pyramidal,Gm20063
+S1 Pyramidal,Gm20878_loc1
+S1 Pyramidal,Gm20878_loc4
+S1 Pyramidal,Gm21586_loc1
+S1 Pyramidal,Gm2694
+S1 Pyramidal,Gm3230
+S1 Pyramidal,Gm5468
+S1 Pyramidal,Gm9899
+S1 Pyramidal,Golga7b
+S1 Pyramidal,Gp1bb
+S1 Pyramidal,Gpr133
+S1 Pyramidal,Gpr153
+S1 Pyramidal,Gpr26
+S1 Pyramidal,Gpr88
+S1 Pyramidal,Grik3
+S1 Pyramidal,Grm2
+S1 Pyramidal,Grm8
+S1 Pyramidal,Gsg1l
+S1 Pyramidal,Gtdc1
+S1 Pyramidal,Gucy2g
+S1 Pyramidal,Hbq1a
+S1 Pyramidal,Hbq1b
+S1 Pyramidal,Hkdc1
+S1 Pyramidal,Hs3st2
+S1 Pyramidal,Htr1f
+S1 Pyramidal,Htr2a
+S1 Pyramidal,Igsf21
+S1 Pyramidal,Igsf9
+S1 Pyramidal,Il12a
+S1 Pyramidal,Il1rapl1
+S1 Pyramidal,Il1rapl2
+S1 Pyramidal,Ildr2
+S1 Pyramidal,Ipcef1
+S1 Pyramidal,Islr2
+S1 Pyramidal,Josd1
+S1 Pyramidal,Kazald1
+S1 Pyramidal,Kcnh1
+S1 Pyramidal,Kcnh4
+S1 Pyramidal,Kcnh5
+S1 Pyramidal,Kcnh7
+S1 Pyramidal,Kcnj11
+S1 Pyramidal,Kcnj9
+S1 Pyramidal,Kcnk4
+S1 Pyramidal,Kcns1
+S1 Pyramidal,Kcnt1
+S1 Pyramidal,Kcnt2
+S1 Pyramidal,Kifc2
+S1 Pyramidal,Klhdc8a
+S1 Pyramidal,Klhl1
+S1 Pyramidal,Klhl40
+S1 Pyramidal,Krt12
+S1 Pyramidal,Krt222
+S1 Pyramidal,Lars2
+S1 Pyramidal,LOC100861978_loc3
+S1 Pyramidal,LOC100861978_loc4
+S1 Pyramidal,Lpcat4
+S1 Pyramidal,Lrrk2
+S1 Pyramidal,Lsm11
+S1 Pyramidal,Ly6g6e
+S1 Pyramidal,Mapk11
+S1 Pyramidal,Mapk12
+S1 Pyramidal,Mat2b
+S1 Pyramidal,Mctp1
+S1 Pyramidal,Medag
+S1 Pyramidal,Mef2c
+S1 Pyramidal,Mgat4c
+S1 Pyramidal,Mgst3
+S1 Pyramidal,Mir218-1
+S1 Pyramidal,Myh3
+S1 Pyramidal,Myl4
+S1 Pyramidal,Myrip
+S1 Pyramidal,Necab3
+S1 Pyramidal,Negr1
+S1 Pyramidal,Neu2
+S1 Pyramidal,Nkiras1
+S1 Pyramidal,Nkx3-1
+S1 Pyramidal,Nme1
+S1 Pyramidal,Nmnat3
+S1 Pyramidal,Npnt
+S1 Pyramidal,Ntn5
+S1 Pyramidal,Ntsr1
+S1 Pyramidal,Numb
+S1 Pyramidal,Nxph3
+S1 Pyramidal,Ocm
+S1 Pyramidal,Opn3
+S1 Pyramidal,Oprk1
+S1 Pyramidal,Osbp2
+S1 Pyramidal,Osbpl1a
+S1 Pyramidal,Otud3
+S1 Pyramidal,Ovol2
+S1 Pyramidal,Pacs1
+S1 Pyramidal,Pak1
+S1 Pyramidal,Pak7
+S1 Pyramidal,Pcdh7
+S1 Pyramidal,Pcdhac1
+S1 Pyramidal,Pcp4
+S1 Pyramidal,Pcsk5
+S1 Pyramidal,Pde1b
+S1 Pyramidal,Pde8b
+S1 Pyramidal,Pdzrn3
+S1 Pyramidal,Pfkp
+S1 Pyramidal,Pi4ka
+S1 Pyramidal,Pip5k1c
+S1 Pyramidal,Plk5
+S1 Pyramidal,Pnma1
+S1 Pyramidal,Pou6f1
+S1 Pyramidal,Pou6f2
+S1 Pyramidal,Pparg
+S1 Pyramidal,Ppm1l
+S1 Pyramidal,Prdm8
+S1 Pyramidal,Prkacb
+S1 Pyramidal,Prkg2
+S1 Pyramidal,Prrt2
+S1 Pyramidal,Prrt3
+S1 Pyramidal,Psmb10
+S1 Pyramidal,Ptprk
+S1 Pyramidal,R3hdm2
+S1 Pyramidal,Rangap1
+S1 Pyramidal,Rap1gap2
+S1 Pyramidal,Rasgef1c
+S1 Pyramidal,Rprm
+S1 Pyramidal,Rps6ka3
+S1 Pyramidal,Rragd
+S1 Pyramidal,Rspo1
+S1 Pyramidal,Rtl1
+S1 Pyramidal,Rxfp2
+S1 Pyramidal,Samd12
+S1 Pyramidal,Scn4b
+S1 Pyramidal,Scube1
+S1 Pyramidal,Sdk2
+S1 Pyramidal,Sec16b
+S1 Pyramidal,Sema3a
+S1 Pyramidal,Sema5b
+S1 Pyramidal,Shf
+S1 Pyramidal,Skap1
+S1 Pyramidal,Slc16a11
+S1 Pyramidal,Slc24a2
+S1 Pyramidal,Slco4c1
+S1 Pyramidal,Slit2
+S1 Pyramidal,Sox5
+S1 Pyramidal,Srpx2
+S1 Pyramidal,Sstr2
+S1 Pyramidal,St3gal5
+S1 Pyramidal,Stard10
+S1 Pyramidal,Stat4
+S1 Pyramidal,Strbp
+S1 Pyramidal,Stx1a
+S1 Pyramidal,Sult2b1
+S1 Pyramidal,Tbr1
+S1 Pyramidal,Tcap
+S1 Pyramidal,Tex40
+S1 Pyramidal,Tiam2
+S1 Pyramidal,Tle4
+S1 Pyramidal,Tmem132a
+S1 Pyramidal,Tmem132d
+S1 Pyramidal,Tmem178
+S1 Pyramidal,Tmem215
+S1 Pyramidal,Tmem40
+S1 Pyramidal,Tmem74b
+S1 Pyramidal,Tnnc1
+S1 Pyramidal,Tpbg
+S1 Pyramidal,Trhde
+S1 Pyramidal,Trhr
+S1 Pyramidal,Tsnax
+S1 Pyramidal,Tspan11
+S1 Pyramidal,Ttl
+S1 Pyramidal,Txnrd2
+S1 Pyramidal,Uchl5
+S1 Pyramidal,Usmg5
+S1 Pyramidal,Vopp1
+S1 Pyramidal,Vwa5b2
+S1 Pyramidal,Wisp1
+S1 Pyramidal,Wnt10a
+S1 Pyramidal,Zfp367
+Astrocyte,1110054M08Rik
+Astrocyte,2610017I09Rik
+Astrocyte,2610100L16Rik
+Astrocyte,2900052N01Rik
+Astrocyte,9630001P10Rik
+Astrocyte,Aass
+Astrocyte,Abcb9
+Astrocyte,Abhd1
+Astrocyte,Acadvl
+Astrocyte,Acot11
+Astrocyte,Acsbg1
+Astrocyte,Acsl3
+Astrocyte,Acsl6
+Astrocyte,Acss1
+Astrocyte,Acss2
+Astrocyte,Adcy2
+Astrocyte,Add3
+Astrocyte,Adk
+Astrocyte,Agl
+Astrocyte,Agpat3
+Astrocyte,Agpat5
+Astrocyte,Ahcyl1
+Astrocyte,Aifm2
+Astrocyte,Ak3
+Astrocyte,Akt2
+Astrocyte,Aldh7a1
+Astrocyte,Aldoc
+Astrocyte,Alpk1
+Astrocyte,Amer2
+Astrocyte,Ampd3
+Astrocyte,Amt
+Astrocyte,Arhgef10l
+Astrocyte,Aspg
+Astrocyte,Atl2
+Astrocyte,Atoh8
+Astrocyte,B230209K01Rik
+Astrocyte,B3galtl
+Astrocyte,Baalc
+Astrocyte,Bmp7
+Astrocyte,Bmpr1a
+Astrocyte,Bmpr1b
+Astrocyte,C030037D09Rik
+Astrocyte,Capn2
+Astrocyte,Car5b
+Astrocyte,Car8
+Astrocyte,Cbr3
+Astrocyte,Cecr2
+Astrocyte,Chi3l1
+Astrocyte,Chrdl1
+Astrocyte,Chst11
+Astrocyte,Chst2
+Astrocyte,Ckb
+Astrocyte,Cldn10
+Astrocyte,Clybl
+Astrocyte,Cmbl
+Astrocyte,Cml1
+Astrocyte,Cmya5
+Astrocyte,Cntfr
+Astrocyte,Col16a1
+Astrocyte,Cry2
+Astrocyte,Cspg5
+Astrocyte,Cth
+Astrocyte,Ctnnbip1
+Astrocyte,Cyp2j9
+Astrocyte,Cyp4f14
+Astrocyte,Cyp4v3
+Astrocyte,Cyp7b1
+Astrocyte,D030047H15Rik
+Astrocyte,D630003M21Rik
+Astrocyte,D630033O11Rik
+Astrocyte,Dbx2
+Astrocyte,Dhrs4
+Astrocyte,Dhrs7
+Astrocyte,Dscr3
+Astrocyte,Dtna
+Astrocyte,Dtx1
+Astrocyte,Dzip1l
+Astrocyte,E030003E18Rik
+Astrocyte,Elmo2
+Astrocyte,Elovl2
+Astrocyte,Epb4.1l5
+Astrocyte,Ephx2
+Astrocyte,Exoc3l4
+Astrocyte,Eya1
+Astrocyte,Fabp7
+Astrocyte,Fam107a
+Astrocyte,Fam161b
+Astrocyte,Fam181a
+Astrocyte,Fam184a
+Astrocyte,Fam184b
+Astrocyte,Fam198a
+Astrocyte,Fam213a
+Astrocyte,Farp1
+Astrocyte,Fbrsl1
+Astrocyte,Fbxo2
+Astrocyte,Fgfbp3
+Astrocyte,Fhit
+Astrocyte,Fmn2
+Astrocyte,Frem2
+Astrocyte,Frmpd1
+Astrocyte,Fzd10
+Astrocyte,Fzd8
+Astrocyte,Fzd9
+Astrocyte,Gabrg1
+Astrocyte,Galnt4
+Astrocyte,Gfap
+Astrocyte,Gldc
+Astrocyte,Gli2
+Astrocyte,Glud1
+Astrocyte,Gm11696
+Astrocyte,Gm20751
+Astrocyte,Gm266
+Astrocyte,Gm2a
+Astrocyte,Gpam
+Astrocyte,Gpc2
+Astrocyte,Gpc6
+Astrocyte,Gstm3
+Astrocyte,Gucy2e
+Astrocyte,Gyk
+Astrocyte,Gys1
+Astrocyte,Hadhb
+Astrocyte,Hdac8
+Astrocyte,Heph
+Astrocyte,Hey1
+Astrocyte,Hif3a
+Astrocyte,Hist1h2bm
+Astrocyte,Hsd11b1
+Astrocyte,Hsdl2
+Astrocyte,Htra1
+Astrocyte,Igdcc4
+Astrocyte,Il33
+Astrocyte,Isoc2a
+Astrocyte,Ivd
+Astrocyte,Kcng4
+Astrocyte,Kifc5b
+Astrocyte,L2hgdh
+Astrocyte,Lgi4
+Astrocyte,Lgr4
+Astrocyte,Lpcat3
+Astrocyte,Lrig1
+Astrocyte,Lrp10
+Astrocyte,Lrp4
+Astrocyte,Lrrc16a
+Astrocyte,Lrrc2
+Astrocyte,Lrrc8a
+Astrocyte,Lsamp
+Astrocyte,Luzp2
+Astrocyte,Lxn
+Astrocyte,Mapkapk3
+Astrocyte,March2
+Astrocyte,Mfap3l
+Astrocyte,Mmgt2
+Astrocyte,Mpv17l2
+Astrocyte,Muc1
+Astrocyte,Nadk2
+Astrocyte,Nat6
+Astrocyte,Nat8
+Astrocyte,Ncan
+Astrocyte,Nckap5
+Astrocyte,Nim1
+Astrocyte,Nphs1
+Astrocyte,Ntsr2
+Astrocyte,Oat
+Astrocyte,Pag1
+Astrocyte,Paqr7
+Astrocyte,Paqr8
+Astrocyte,Pcdhgc3
+Astrocyte,Pced1b
+Astrocyte,Pdgfrl
+Astrocyte,Peli2
+Astrocyte,Pgm2
+Astrocyte,Polr3h
+Astrocyte,Ppp1r14b
+Astrocyte,Ppp1r3d
+Astrocyte,Ppp1r3g
+Astrocyte,Prdx6b
+Astrocyte,Prkd1
+Astrocyte,Proca1
+Astrocyte,Ptplb
+Astrocyte,Rab34
+Astrocyte,Ranbp3l
+Astrocyte,Rasa2
+Astrocyte,Rb1
+Astrocyte,Rbm20
+Astrocyte,Rcn2
+Astrocyte,Relt
+Astrocyte,Rgma
+Astrocyte,Rgs20
+Astrocyte,Rlbp1
+Astrocyte,Rnf180
+Astrocyte,Rom1
+Astrocyte,Scara3
+Astrocyte,Sdsl
+Astrocyte,Sesn3
+Astrocyte,Skida1
+Astrocyte,Slc12a9
+Astrocyte,Slc13a3
+Astrocyte,Slc18b1
+Astrocyte,Slc1a4
+Astrocyte,Slc25a20
+Astrocyte,Slc25a33
+Astrocyte,Slc26a6
+Astrocyte,Slc27a1
+Astrocyte,Slc30a10
+Astrocyte,Slc36a2
+Astrocyte,Slc46a1
+Astrocyte,Slc6a11
+Astrocyte,Slc7a11
+Astrocyte,Slitrk2
+Astrocyte,Snord42b
+Astrocyte,Snta1
+Astrocyte,Spire1
+Astrocyte,Spry2
+Astrocyte,Spry4
+Astrocyte,Src
+Astrocyte,Stard6
+Astrocyte,Sycp2
+Astrocyte,Tfcp2l1
+Astrocyte,Thbs4
+Astrocyte,Tm7sf2
+Astrocyte,Tmem129
+Astrocyte,Tmem136
+Astrocyte,Tmem218
+Astrocyte,Tmie
+Astrocyte,Tprkb
+Astrocyte,Trps1
+Astrocyte,Ttyh1
+Astrocyte,Txndc5
+Astrocyte,Ubiad1
+Astrocyte,Ugp2
+Astrocyte,Usp43
+Astrocyte,Usp51
+Astrocyte,Utp14b
+Astrocyte,Wasf3
+Astrocyte,Xpr1
+Astrocyte,Zdhhc18
+Astrocyte,Zfp219
+Astrocyte,Zfp687
+Astrocyte,Zmpste24
+Astrocyte,Znrf3
+Mural,1500009L16Rik
+Mural,1700120C14Rik
+Mural,Accs
+Mural,Acta2
+Mural,Adamts15
+Mural,Adamts16
+Mural,Adamts8
+Mural,Adamtsl1
+Mural,Adcy6
+Mural,Airn
+Mural,Amigo2
+Mural,Ano1
+Mural,Aoc3
+Mural,Arglu1
+Mural,Arhgap10
+Mural,Arhgef7
+Mural,Arid3b
+Mural,Asb2
+Mural,AW011738
+Mural,BC053749
+Mural,Bend3
+Mural,Bgn
+Mural,Bmp5
+Mural,C1qtnf7
+Mural,C1rb
+Mural,C1s
+Mural,C230081A13Rik
+Mural,Capn15
+Mural,Ces5a
+Mural,Cnn1
+Mural,Cog7
+Mural,Col18a1
+Mural,Crip1
+Mural,Crispld2
+Mural,Crtc3
+Mural,Ctnna3
+Mural,Des
+Mural,Dnah8
+Mural,Dok6
+Mural,Dstn
+Mural,Eif4e3
+Mural,Emilin1
+Mural,Ephx3
+Mural,Errfi1
+Mural,Espl1
+Mural,Fbxl22
+Mural,Fgl2
+Mural,Filip1l
+Mural,Flna
+Mural,Foxs1
+Mural,Frk
+Mural,Fstl1
+Mural,Fzd5
+Mural,Gbp6
+Mural,Gm12216
+Mural,Gm13889
+Mural,Gm16845
+Mural,Gm19705
+Mural,Gm5077
+Mural,Gpr20
+Mural,Gucd1
+Mural,Gucy1b3
+Mural,Hspb2
+Mural,Il34
+Mural,Itga10
+Mural,Itga8
+Mural,Kctd16
+Mural,Kirrel
+Mural,Ldb3
+Mural,Lgals8
+Mural,Lingo4
+Mural,Lipg
+Mural,Lipo1
+Mural,Lmna
+Mural,Lmod1
+Mural,Map3k7cl
+Mural,Marveld1
+Mural,Melk
+Mural,Mir143hg
+Mural,Mnd1
+Mural,Mob2
+Mural,Moxd1
+Mural,Mprip
+Mural,Mrvi1
+Mural,Mustn1
+Mural,Myh11
+Mural,Myl9
+Mural,Mylk
+Mural,Myocd
+Mural,Myom1
+Mural,Nab1
+Mural,Nexn
+Mural,Nrip2
+Mural,Obscn
+Mural,Olfr558
+Mural,Olfr78
+Mural,P2rx1
+Mural,Palld
+Mural,Parp8
+Mural,Pask
+Mural,Pde3a
+Mural,Pdlim1
+Mural,Pdlim3
+Mural,Pgf
+Mural,Phtf2
+Mural,Pla2r1
+Mural,Plce1
+Mural,Plec
+Mural,Plin4
+Mural,Pln
+Mural,Polm
+Mural,Ppp1r12a
+Mural,Prox2
+Mural,Ptges3l
+Mural,Rasl11a
+Mural,Rasl12
+Mural,Rccd1
+Mural,Rcn3
+Mural,Rnu11
+Mural,Rock1
+Mural,Ror1
+Mural,Samd11
+Mural,Sapcd2
+Mural,Serping1
+Mural,Sgca
+Mural,Sh3bgr
+Mural,Sh3pxd2a
+Mural,Six5
+Mural,Slc19a1
+Mural,Slc38a11
+Mural,Slmap
+Mural,Smad6
+Mural,Snora16a
+Mural,St5
+Mural,Susd2
+Mural,Susd5
+Mural,Tagln
+Mural,Tgfb1i1
+Mural,Tgfb3
+Mural,Tmem231
+Mural,Tnxb
+Mural,Tpm1
+Mural,Tpm2
+Mural,Trabd2b
+Mural,Traf3ip2
+Mural,Tshr
+Mural,Uba2
+Mural,Vstm4
+Mural,Whrn
+Mural,Wnt5b
+Mural,Wtip
+Mural,Zak
+Mural,Zbtb10
+Mural,Zc2hc1a
+Mural,Znf41-ps
