@@ -25,7 +25,7 @@ mouse_summary <- mouse_supplement %>% group_by(cell_type) %>% count() %>% rename
 mouse_summary
 
 
-#convert to human
+#convert to human, this is the only part that is dynamic, everything else is static. However, gene symbols will be out of date.
 human_mapping <- mouse2human(mouse_supplement %>% pull(gene_symbol)) %>% tibble()
 human_converted <- inner_join(mouse_supplement, human_mapping %>% rename(gene_symbol = mouseGene))
 human_converted %<>% select(gene_symbol = humanGene, cell_type) %>% distinct()
